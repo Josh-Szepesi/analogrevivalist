@@ -4,6 +4,7 @@ title: "MM vs. MC Cartridges: Understanding Moving Magnet and Moving Coil"
 date: 2026-03-11
 ---
 
+
 The phono cartridge converts the mechanical movement of the stylus in the record groove into an electrical signal. Two main types of cartridge designs dominate the market: moving magnet (MM) and moving coil (MC). Understanding the differences between them helps you choose the right cartridge for your setup and your budget, and helps you understand why certain combinations of cartridge and phono preamp work together or do not.
 
 ## How Moving Magnet Cartridges Work
@@ -24,15 +25,26 @@ MC cartridges are also more expensive, often significantly so, and most do not h
 
 Some moving coil cartridges are designed with higher output, typically 1.5 to 2.5 millivolts, by using more turns of wire in the coils. These high-output MC cartridges can work with standard MM phono inputs and offer some of the sonic character associated with MC designs at a lower price point and without the preamp compatibility issue. They represent a reasonable first step into MC territory.
 
+
+Stereophile's [cartridge measurement archive](https://www.stereophile.com/content/cartridge-measurements) includes frequency response and channel separation measurements for hundreds of cartridges - useful for comparing specs beyond marketing copy.
+
 ## Which Should You Choose?
 
 For most beginners and intermediate listeners, a quality moving magnet cartridge is the right choice. Excellent MM cartridges from Audio-Technica, Ortofon, Nagaoka, and Grado in the $50 to $300 range are capable of genuinely good sound and are easy to live with. The replaceable stylus is a significant practical advantage.
 
-Moving coil cartridges become worth considering when you have a high-quality turntable and tonearm capable of resolving the differences they offer, a phono preamp with a proper MC input, and a budget for both the initial cost and eventual retipping. Jumping to a mid-priced MC on a budget turntable with an inadequate phono stage is unlikely to be a rewarding upgrade.
+Moving coil cartridges become worth considering when you have a high-quality turntable and tonearm capable of resolving the differences they offer, a phono preamp with a proper MC input, and a budget for both the initial cost and eventual retipping. Jumping to a mid-priced MC on a budget turntable with an inadequate [phono stage](/2026/03/11/setting-up-vintage-receiver.html) is unlikely to be a rewarding upgrade.
 
 Build your system methodically, get the most from your current setup, and the question of when to explore MC will answer itself naturally.
 
 ---
+---
+
+## Related Reading
+
+- [Setting Tracking Force and Anti-Skate](/2026/03/11/setting-tracking-force-anti-skate.html)
+- [Best Budget Turntables for Beginners](/2026/03/11/best-budget-turntables-beginners.html)
+
+Whichever cartridge you choose, tracking force setup is critical. See our [Setting Tracking Force and Anti-Skate guide](/2026/03/11/setting-tracking-force-anti-skate.html).
 
 ## Recommended Products
 
@@ -43,3 +55,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Stylus Replacement Needle](https://www.amazon.com/s?k=turntable+stylus+replacement+needle)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Analog Revivalist team writes about vintage audio restoration, from sourcing components to final listening tests. Our guides are rooted in practical bench experience - we don't recommend what we haven't taken apart ourselves.</p>
+</div>
