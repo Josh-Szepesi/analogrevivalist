@@ -39,3 +39,15 @@ The results from a properly operated ultrasonic cleaner are the best available b
 ## After Cleaning
 
 Store cleaned records in new inner sleeves rather than returning them to the original paper or plastic sleeves, which often contain debris. Poly-lined paper or polyethylene inner sleeves are the standard choice. A cleaned and properly stored record will maintain its condition and sound quality far longer than one that is handled casually.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Record Cleaning Machine](https://www.amazon.com/s?k=record+cleaning+machine+vinyl)**
+- **[Anti-Static Record Brush](https://www.amazon.com/s?k=anti+static+record+cleaning+brush)**
+- **[Vinyl Cleaning Kit Fluid](https://www.amazon.com/s?k=vinyl+record+cleaning+kit+fluid)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
