@@ -35,3 +35,15 @@ The highest tier of stylus cleaning is an ultrasonic cleaner. Devices like the H
 ## How Often to Clean
 
 Brush the stylus before every play session, ideally before the first record and again if you notice degraded sound mid-session. Liquid or mechanical deep cleaning every 20 to 50 hours of play is appropriate. A clean stylus sounds better, lasts longer, and protects the records you have invested in.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Audio-Technica AT-LP120](https://www.amazon.com/s?k=audio+technica+at+lp120+turntable)**
+- **[Pro-Ject Debut Turntable](https://www.amazon.com/s?k=pro+ject+debut+carbon+turntable)**
+- **[Turntable Dust Cover](https://www.amazon.com/s?k=turntable+dust+cover+replacement)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
