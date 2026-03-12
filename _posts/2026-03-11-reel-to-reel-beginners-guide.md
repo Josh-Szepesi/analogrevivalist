@@ -35,3 +35,13 @@ Blank tape is still manufactured by companies including ATR Magnetics, RMGi, and
 ## Getting Started
 
 A reasonable starting budget for a first setup is $300 to $500 for a used deck in good working order, plus $50 to $100 for basic accessories: a head demagnetizer, a small bottle of head cleaning solution, and a supply of new or used tape. With that, you have everything needed to start exploring one of the most rewarding corners of the analog world.
+
+---
+
+## Recommended Products
+
+Here are a few products that can help with what we covered in this guide:
+
+- **[Vinyl Record Storage Crate](https://www.amazon.com/s?k=vinyl+record+storage+crate+wooden)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
