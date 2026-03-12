@@ -35,3 +35,15 @@ Clean the driver contacts and binding posts with contact cleaner and check that 
 ## What to Expect
 
 A pair of vintage speakers that have been refomed (surrounds replaced) and recapped can be genuinely competitive with modern speakers costing several times their purchase price. The cabinet construction, driver quality, and crossover design of the best vintage speakers are often superior to what is available at equivalent modern price points. The investment in restoration parts typically runs $40 to $100 per pair, and the sonic return can be substantial.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Bookshelf Speakers Pair](https://www.amazon.com/s?k=bookshelf+speakers+pair+audiophile)**
+- **[Speaker Wire OFC](https://www.amazon.com/s?k=speaker+wire+oxygen+free+copper)**
+- **[Speaker Stands Adjustable](https://www.amazon.com/s?k=speaker+stands+bookshelf+adjustable)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
