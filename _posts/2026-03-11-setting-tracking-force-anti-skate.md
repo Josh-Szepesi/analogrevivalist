@@ -39,3 +39,15 @@ The standard starting point is to set anti-skate to the same numeric value as yo
 To fine-tune anti-skate, play a test record with a blank or nearly blank groove (or a test LP with dedicated anti-skate tracks) and listen for balanced distortion on both channels. If sibilance or distortion is worse on the right channel, reduce anti-skate slightly. If worse on the left, increase it. Most setups do well with anti-skate set between 80 and 100 percent of the tracking force value.
 
 Once both settings are dialed in, your cartridge will track reliably, distort less, and be kinder to both your records and the stylus over time.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Stylus Force Gauge Digital](https://www.amazon.com/s?k=stylus+force+gauge+digital+turntable)**
+- **[Anti-Skate Weight](https://www.amazon.com/s?k=turntable+anti+skate+weight)**
+- **[Turntable Alignment Tool](https://www.amazon.com/s?k=turntable+cartridge+alignment+protractor)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
