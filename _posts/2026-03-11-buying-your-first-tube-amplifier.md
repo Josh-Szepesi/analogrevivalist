@@ -4,7 +4,13 @@ title: "Buying Your First Tube Amplifier: What to Look For"
 date: 2026-03-11
 ---
 
+
 Tube amplifiers occupy a unique place in audio. Where solid-state gear is valued for its precision and objectivity, tube amplifiers are celebrated for a warmth and harmonic richness that many listeners find more engaging over long sessions. If you are considering your first tube amplifier, the options range from budget-friendly Chinese-made integrated amps to vintage American and European classics to hand-built custom pieces costing tens of thousands of dollars. Knowing what to look for makes the search much less overwhelming.
+
+<div class="safety-note">
+**Safety Note:** Tube amplifiers operate at dangerously high voltages - often 300-450V on the plate supply. These voltages can be lethal. Never probe inside a powered tube amp unless you are trained in high-voltage electronics safety. Always discharge filter capacitors before touching anything inside. Tube equipment runs hot - keep it clear of flammable materials and ensure ventilation.
+</div>
+
 
 ## Integrated vs. Separates
 
@@ -32,6 +38,9 @@ The output transformer is the most critical and expensive component in a tube po
 
 Some tube amplifiers use self-biasing or cathode-biasing, which means the tubes set their own operating point automatically. These are easier to maintain and more tolerant of tube variation. Others use fixed bias, which requires occasional manual adjustment with a multimeter as the tubes age. Fixed-bias amps often sound slightly better, but require the owner to understand the adjustment procedure. For beginners, self-biasing designs are more forgiving.
 
+
+The [Tube Amp FAQ on diyAudio](https://www.diyaudio.com/community/threads/the-tube-amp-faq.64886/) is one of the most comprehensive freely available references on tube amplifier circuit basics and safety.
+
 ## Budget Guidance
 
 A functional and satisfying first tube amplifier is attainable in the $400 to $800 range new, or $200 to $600 for vintage gear after restoration costs. At these price points, expect to encounter real compromises in transformer quality or construction. Moving to the $1,000 to $2,000 range opens up significantly better options from PrimaLuna, Rogue, and Cayin, as well as excellent restored vintage pieces.
@@ -39,6 +48,14 @@ A functional and satisfying first tube amplifier is attainable in the $400 to $8
 Take your time, match the amplifier to your speakers, and enjoy the process.
 
 ---
+---
+
+## Related Reading
+
+- [Setting Up a Vintage Receiver](/2026/03/11/setting-up-vintage-receiver.html)
+- [Beginner's Guide to Vintage HiFi](/2026/03/11/beginners-guide-to-vintage-hifi.html)
+
+If you're setting up a full system, you'll also need a phono preamp or receiver. Our [Setting Up a Vintage Receiver guide](/2026/03/11/setting-up-vintage-receiver.html) covers integration with a turntable.
 
 ## Recommended Products
 
@@ -49,3 +66,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Schiit Mani Phono Preamp](https://www.amazon.com/s?k=schiit+mani+phono+preamp)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Analog Revivalist team writes about vintage audio restoration, from sourcing components to final listening tests. Our guides are rooted in practical bench experience - we don't recommend what we haven't taken apart ourselves.</p>
+</div>
