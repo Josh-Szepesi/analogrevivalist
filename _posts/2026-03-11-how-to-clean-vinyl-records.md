@@ -4,7 +4,13 @@ title: "How to Clean Vinyl Records Properly: Methods for Every Budget"
 date: 2026-03-11
 ---
 
-Clean records sound better and last longer. Dust, fingerprint oils, and microscopic debris in the grooves increase surface noise, cause the stylus to skip or distort, and accelerate wear on both the groove walls and the stylus tip itself. Cleaning records is not optional for anyone serious about vinyl; it is part of the basic discipline of caring for the format. Fortunately, effective cleaning methods exist at every budget level.
+
+Clean records sound better and last longer. Dust, fingerprint oils, and microscopic debris in the grooves increase surface noise, cause the [stylus](/2026/03/11/how-to-clean-turntable-stylus.html) to skip or distort, and accelerate wear on both the groove walls and the stylus tip itself. Cleaning records is not optional for anyone serious about vinyl; it is part of the basic discipline of caring for the format. Fortunately, effective cleaning methods exist at every budget level.
+
+<div class="safety-note">
+**Safety Note:** Avoid using tap water on vinyl - mineral deposits leave residue in grooves. Always use distilled or deionized water in any cleaning solution. Never clean records with paper towels or tissues - even soft tissue can cause micro-scratches that accumulate over time.
+</div>
+
 
 ## What You Are Cleaning Off
 
@@ -36,11 +42,22 @@ Ultrasonic record cleaning machines, such as those from Degritter, Klaudio, and 
 
 The results from a properly operated ultrasonic cleaner are the best available by a significant margin. New records, used records, and records that have been unplayable due to contamination all respond well to ultrasonic cleaning. The cost is $500 to $4,000 depending on the model.
 
+
+The Library of Congress [audio preservation guide](https://www.loc.gov/preservation/resources/care/record.html) covers long-term vinyl storage and handling best practices from an archival perspective.
+
 ## After Cleaning
 
 Store cleaned records in new inner sleeves rather than returning them to the original paper or plastic sleeves, which often contain debris. Poly-lined paper or polyethylene inner sleeves are the standard choice. A cleaned and properly stored record will maintain its condition and sound quality far longer than one that is handled casually.
 
 ---
+---
+
+## Related Reading
+
+- [How to Clean Your Turntable Stylus](/2026/03/11/how-to-clean-turntable-stylus.html)
+- [Best Budget Turntables for Beginners](/2026/03/11/best-budget-turntables-beginners.html)
+
+Clean records still need a clean stylus. Check our [How to Clean Your Turntable Stylus guide](/2026/03/11/how-to-clean-turntable-stylus.html) for the other half of the equation.
 
 ## Recommended Products
 
@@ -51,3 +68,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Vinyl Cleaning Kit Fluid](https://www.amazon.com/s?k=vinyl+record+cleaning+kit+fluid)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Analog Revivalist team writes about vintage audio restoration, from sourcing components to final listening tests. Our guides are rooted in practical bench experience - we don't recommend what we haven't taken apart ourselves.</p>
+</div>
