@@ -37,3 +37,14 @@ If the relay never clicks, or if it clicks and then disconnects, there may be a 
 After setup, give the receiver 20 to 30 minutes to warm up before critical listening. The volume and tone controls on vintage equipment often develop crackling and static from oxidized contacts. Working the controls back and forth through their full range several times can temporarily clear mild oxidation. For a permanent fix, spray a small amount of contact cleaner into the potentiometer opening and work the control again. DeOxit D5 is the product of choice for this task.
 
 Take your time, listen carefully, and enjoy the process of getting to know your vintage gear.
+
+---
+
+## Recommended Products
+
+Here are a few products that can help with what we covered in this guide:
+
+- **[Phono Preamp Turntable MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc)**
+- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo+audiophile)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
