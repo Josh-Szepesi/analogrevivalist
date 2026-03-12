@@ -37,3 +37,15 @@ Some tube amplifiers use self-biasing or cathode-biasing, which means the tubes 
 A functional and satisfying first tube amplifier is attainable in the $400 to $800 range new, or $200 to $600 for vintage gear after restoration costs. At these price points, expect to encounter real compromises in transformer quality or construction. Moving to the $1,000 to $2,000 range opens up significantly better options from PrimaLuna, Rogue, and Cayin, as well as excellent restored vintage pieces.
 
 Take your time, match the amplifier to your speakers, and enjoy the process.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Phono Preamp MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc)**
+- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo)**
+- **[Schiit Mani Phono Preamp](https://www.amazon.com/s?k=schiit+mani+phono+preamp)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
