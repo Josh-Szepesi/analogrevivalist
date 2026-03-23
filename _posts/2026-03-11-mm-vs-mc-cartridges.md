@@ -4,6 +4,7 @@ title: "MM vs. MC Cartridges: Understanding Moving Magnet and Moving Coil"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 The phono cartridge converts the mechanical movement of the stylus in the record groove into an electrical signal. Two main types of cartridge designs dominate the market: moving magnet (MM) and moving coil (MC). Understanding the differences between them helps you choose the right cartridge for your setup and your budget, and helps you understand why certain combinations of cartridge and phono preamp work together or do not.
 
@@ -50,11 +51,10 @@ Whichever cartridge you choose, tracking force setup is critical. See our [Setti
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Audio-Technica VM95E](https://www.amazon.com/s?k=audio+technica+vm95e+cartridge)**
-- **[Ortofon 2M Red](https://www.amazon.com/s?k=ortofon+2m+red+cartridge)**
-- **[Stylus Replacement Needle](https://www.amazon.com/s?k=turntable+stylus+replacement+needle)**
+- **[Audio-Technica VM95E](https://www.amazon.com/s?k=audio+technica+vm95e+cartridge&tag=mbbeekeeping-20)**
+- **[Ortofon 2M Red](https://www.amazon.com/s?k=ortofon+2m+red+cartridge&tag=mbbeekeeping-20)**
+- **[Stylus Replacement Needle](https://www.amazon.com/s?k=turntable+stylus+replacement+needle&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
