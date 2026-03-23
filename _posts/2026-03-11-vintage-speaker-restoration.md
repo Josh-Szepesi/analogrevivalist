@@ -4,6 +4,7 @@ title: "Vintage Speaker Restoration: Where to Start"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Vintage loudspeakers from the 1960s through the early 1980s represent some of the most interesting and capable speakers available at any price on the used market today. Brands like Advent, AR (Acoustic Research), JBL, Klipsch, Altec, and EPI produced designs during this era that are still competitive with modern equivalents. Many of these speakers are available for $50 to $400 on the used market in cosmetically worn but electrically functional condition. With some attention and basic restoration work, they can sound remarkable.
 
@@ -59,11 +60,10 @@ Restored speakers pair best with a restored amp. See our [Setting Up a Vintage R
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Bookshelf Speakers Pair](https://www.amazon.com/s?k=bookshelf+speakers+pair+audiophile)**
-- **[Speaker Wire OFC](https://www.amazon.com/s?k=speaker+wire+oxygen+free+copper)**
-- **[Speaker Stands Adjustable](https://www.amazon.com/s?k=speaker+stands+bookshelf+adjustable)**
+- **[Bookshelf Speakers Pair](https://www.amazon.com/s?k=bookshelf+speakers+pair+audiophile&tag=mbbeekeeping-20)**
+- **[Speaker Wire OFC](https://www.amazon.com/s?k=speaker+wire+oxygen+free+copper&tag=mbbeekeeping-20)**
+- **[Speaker Stands Adjustable](https://www.amazon.com/s?k=speaker+stands+bookshelf+adjustable&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
