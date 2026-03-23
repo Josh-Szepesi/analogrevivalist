@@ -4,6 +4,7 @@ title: "How to Set Turntable Tracking Force and Anti-Skate"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Two of the most important adjustments on any turntable are tracking force and anti-skate. Together, they determine how the stylus sits in the record groove, how cleanly it tracks the signal, and how much wear it imparts to both the stylus and the record. Getting these settings right is not complicated, but it requires a little patience and the right tools.
 
@@ -58,11 +59,10 @@ A well-set cartridge also needs clean records to track well. Our [How to Clean V
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Stylus Force Gauge Digital](https://www.amazon.com/s?k=stylus+force+gauge+digital+turntable)**
-- **[Anti-Skate Weight](https://www.amazon.com/s?k=turntable+anti+skate+weight)**
-- **[Turntable Alignment Tool](https://www.amazon.com/s?k=turntable+cartridge+alignment+protractor)**
+- **[Stylus Force Gauge Digital](https://www.amazon.com/s?k=stylus+force+gauge+digital+turntable&tag=mbbeekeeping-20)**
+- **[Anti-Skate Weight](https://www.amazon.com/s?k=turntable+anti+skate+weight&tag=mbbeekeeping-20)**
+- **[Turntable Alignment Tool](https://www.amazon.com/s?k=turntable+cartridge+alignment+protractor&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
