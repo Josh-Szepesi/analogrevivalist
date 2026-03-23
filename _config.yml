@@ -3,5 +3,7 @@ description: "Vintage HiFi and retro audio guides for analog enthusiasts. Turnta
 url: "https://analogrevivalist.com"
 baseurl: ""
 theme: minima
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
