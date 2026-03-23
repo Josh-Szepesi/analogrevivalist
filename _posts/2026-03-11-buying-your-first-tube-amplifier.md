@@ -4,6 +4,7 @@ title: "Buying Your First Tube Amplifier: What to Look For"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Tube amplifiers occupy a unique place in audio. Where solid-state gear is valued for its precision and objectivity, tube amplifiers are celebrated for a warmth and harmonic richness that many listeners find more engaging over long sessions. If you are considering your first tube amplifier, the options range from budget-friendly Chinese-made integrated amps to vintage American and European classics to hand-built custom pieces costing tens of thousands of dollars. Knowing what to look for makes the search much less overwhelming.
 
@@ -61,11 +62,10 @@ If you're setting up a full system, you'll also need a phono preamp or receiver.
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Phono Preamp MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc)**
-- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo)**
-- **[Schiit Mani Phono Preamp](https://www.amazon.com/s?k=schiit+mani+phono+preamp)**
+- **[Phono Preamp MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc&tag=mbbeekeeping-20)**
+- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo&tag=mbbeekeeping-20)**
+- **[Schiit Mani Phono Preamp](https://www.amazon.com/s?k=schiit+mani+phono+preamp&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
