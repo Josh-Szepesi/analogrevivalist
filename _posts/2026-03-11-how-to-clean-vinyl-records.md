@@ -4,6 +4,7 @@ title: "How to Clean Vinyl Records Properly: Methods for Every Budget"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Clean records sound better and last longer. Dust, fingerprint oils, and microscopic debris in the grooves increase surface noise, cause the [stylus](/2026/03/11/how-to-clean-turntable-stylus.html) to skip or distort, and accelerate wear on both the groove walls and the stylus tip itself. Cleaning records is not optional for anyone serious about vinyl; it is part of the basic discipline of caring for the format. Fortunately, effective cleaning methods exist at every budget level.
 
@@ -63,11 +64,10 @@ Clean records still need a clean stylus. Check our [How to Clean Your Turntable 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Record Cleaning Machine](https://www.amazon.com/s?k=record+cleaning+machine+vinyl)**
-- **[Anti-Static Record Brush](https://www.amazon.com/s?k=anti+static+record+cleaning+brush)**
-- **[Vinyl Cleaning Kit Fluid](https://www.amazon.com/s?k=vinyl+record+cleaning+kit+fluid)**
+- **[Record Cleaning Machine](https://www.amazon.com/s?k=record+cleaning+machine+vinyl&tag=mbbeekeeping-20)**
+- **[Anti-Static Record Brush](https://www.amazon.com/s?k=anti+static+record+cleaning+brush&tag=mbbeekeeping-20)**
+- **[Vinyl Cleaning Kit Fluid](https://www.amazon.com/s?k=vinyl+record+cleaning+kit+fluid&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
