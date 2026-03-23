@@ -4,6 +4,7 @@ title: "Setting Up a Vintage Receiver: Connections, Speakers, and First Steps"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Vintage integrated receivers from the 1960s through the 1980s remain some of the most sought-after pieces of audio equipment available. Brands like Marantz, Pioneer, Sansui, Kenwood, and Sony produced receivers during this era that combined AM/FM tuners, preamplifiers, and power amplifiers in single beautifully designed chassis. If you have just acquired your first vintage receiver, here is how to set it up properly and avoid the most common mistakes.
 
@@ -61,10 +62,9 @@ Once your receiver is running, pair it with a turntable. Our [Best Budget Turnta
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[Phono Preamp Turntable MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc)**
-- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo+audiophile)**
+- **[Phono Preamp Turntable MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc&tag=mbbeekeeping-20)**
+- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo+audiophile&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
