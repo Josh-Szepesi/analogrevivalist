@@ -2,7 +2,9 @@
 layout: post
 title: "Reel-to-Reel Tape Decks: A Beginner's Guide to Vintage Tape"
 date: 2026-03-11
+image: /assets/images/2026-03-11-reel-to-reel-beginners-guide.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Reel-to-reel tape is the format that professional recording studios used for dec
 **Safety Note:** Vintage reel-to-reel machines contain motors and transport mechanisms that can catch loose clothing or hair - keep jewelry and clothing clear when threading tape. Many units use rubber pinch rollers and capstans that have hardened over decades and should be replaced before regular use to avoid tape damage. Have any unit with a suspected motor issue inspected before running expensive tape.
 </div>
 
+
+
+![Reel-to-Reel Tape Decks: A Beginner's Guide to Vintage Tape](/assets/images/2026-03-11-reel-to-reel-beginners-guide.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@stevengbrown?utm_source=artlines_blog&utm_medium=referral">Steven Brown</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Reel-to-Reel?
 
