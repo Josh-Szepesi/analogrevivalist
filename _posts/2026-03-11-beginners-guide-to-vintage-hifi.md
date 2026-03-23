@@ -6,6 +6,7 @@ categories: [hifi, beginner]
 description: "New to vintage HiFi? This guide covers turntables, tube amplifiers, and classic speakers to help you get started with analog audio on any budget."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 There is something about analog audio that digital formats have never fully replicated. The warmth of a tube amplifier, the ritual of dropping a needle on a record, the physical presence of a well-built piece of classic equipment: vintage HiFi connects you to music in a way that streaming simply does not.
 
@@ -75,9 +76,8 @@ Ready to start with a turntable? Our [Best Budget Turntables for Beginners guide
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[Vinyl Record Storage Crate](https://www.amazon.com/s?k=vinyl)**
+- **[Vinyl Record Storage Crate](https://www.amazon.com/s?k=vinyl&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
