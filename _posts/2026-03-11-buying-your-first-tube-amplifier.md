@@ -2,7 +2,9 @@
 layout: post
 title: "Buying Your First Tube Amplifier: What to Look For"
 date: 2026-03-11
+image: /assets/images/2026-03-11-buying-your-first-tube-amplifier.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Tube amplifiers occupy a unique place in audio. Where solid-state gear is valued
 **Safety Note:** Tube amplifiers operate at dangerously high voltages - often 300-450V on the plate supply. These voltages can be lethal. Never probe inside a powered tube amp unless you are trained in high-voltage electronics safety. Always discharge filter capacitors before touching anything inside. Tube equipment runs hot - keep it clear of flammable materials and ensure ventilation.
 </div>
 
+
+
+![Buying Your First Tube Amplifier: What to Look For](/assets/images/2026-03-11-buying-your-first-tube-amplifier.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@tannguyen200196?utm_source=artlines_blog&utm_medium=referral">Tan Tony</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Integrated vs. Separates
 
