@@ -2,11 +2,18 @@
 layout: post
 title: "How to Set Turntable Tracking Force and Anti-Skate"
 date: 2026-03-11
+image: /assets/images/2026-03-11-setting-tracking-force-anti-skate.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Two of the most important adjustments on any turntable are tracking force and anti-skate. Together, they determine how the stylus sits in the record groove, how cleanly it tracks the signal, and how much wear it imparts to both the stylus and the record. Getting these settings right is not complicated, but it requires a little patience and the right tools.
+
+
+![How to Set Turntable Tracking Force and Anti-Skate](/assets/images/2026-03-11-setting-tracking-force-anti-skate.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@dentistozkanguner?utm_source=artlines_blog&utm_medium=referral">Ozkan Guner</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Is Tracking Force?
 
