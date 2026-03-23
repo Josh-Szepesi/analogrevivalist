@@ -2,7 +2,9 @@
 layout: post
 title: "How to Clean Vinyl Records Properly: Methods for Every Budget"
 date: 2026-03-11
+image: /assets/images/2026-03-11-how-to-clean-vinyl-records.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Clean records sound better and last longer. Dust, fingerprint oils, and microsco
 **Safety Note:** Avoid using tap water on vinyl - mineral deposits leave residue in grooves. Always use distilled or deionized water in any cleaning solution. Never clean records with paper towels or tissues - even soft tissue can cause micro-scratches that accumulate over time.
 </div>
 
+
+
+![How to Clean Vinyl Records Properly: Methods for Every Budget](/assets/images/2026-03-11-how-to-clean-vinyl-records.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@polarmermaid?utm_source=artlines_blog&utm_medium=referral">Anne Nygård</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What You Are Cleaning Off
 
