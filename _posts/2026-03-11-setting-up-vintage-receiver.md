@@ -2,7 +2,9 @@
 layout: post
 title: "Setting Up a Vintage Receiver: Connections, Speakers, and First Steps"
 date: 2026-03-11
+image: /assets/images/2026-03-11-setting-up-vintage-receiver.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Vintage integrated receivers from the 1960s through the 1980s remain some of the
 **Safety Note:** Vintage receivers should be inspected for failing electrolytic capacitors before sustained use. Bulging or leaking caps are a fire hazard. If a receiver smells of burning or produces crackling audio, power it off immediately and have it serviced. All vintage electronics should be tested on a Variac when being powered up after long storage - sudden full voltage can destroy old capacitors.
 </div>
 
+
+
+![Setting Up a Vintage Receiver: Connections, Speakers, and First Steps](/assets/images/2026-03-11-setting-up-vintage-receiver.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@tinkerman?utm_source=artlines_blog&utm_medium=referral">Immo Wegmann</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Before You Power It On
 
