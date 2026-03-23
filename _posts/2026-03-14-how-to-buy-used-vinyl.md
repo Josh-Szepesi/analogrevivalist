@@ -3,13 +3,20 @@ layout: post
 title: "How to Buy Used Vinyl Without Getting Burned"
 date: 2026-03-14
 description: "Learn how to buy used vinyl without getting burned. I walk you through grading, pressing quality, and the red flags to avoid at record fairs."
+image: /assets/images/2026-03-14-how-to-buy-used-vinyl.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Buying used vinyl is one of the best parts of getting into analog audio - and one of the quickest ways to waste money if you don't know what you're looking at. I've come home more than once with records I thought were in great shape, only to hear pops, skips, and surface noise the moment the needle dropped. Over time, I've developed a reliable inspection routine that saves me from most bad purchases. This guide walks through everything you need to check before you hand over your cash.
 
 **Safety Note:** Used records can carry mold, mildew, or fine grit that damages both the record groove and your stylus. Always inspect records visually under bright light before playing, and clean any used record before it touches your turntable. Running a dirty record risks permanent stylus damage and can grind contaminants deeper into the groove.
+
+
+![How to Buy Used Vinyl Without Getting Burned](/assets/images/2026-03-14-how-to-buy-used-vinyl.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@by_danny_g?utm_source=artlines_blog&utm_medium=referral">Danny Greenberg</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Understanding Record Grading
 
@@ -121,4 +128,3 @@ If you're still putting together your setup, the turntable guide is a good next 
   <p><strong>About the Author</strong></p>
   <p>The Analog Revivalist team writes about vintage audio restoration, from sourcing components to final listening tests. Our guides are rooted in practical bench experience - we don't recommend what we haven't taken apart ourselves.</p>
 </div>
-
