@@ -4,6 +4,7 @@ title: "Reel-to-Reel Tape Decks: A Beginner's Guide to Vintage Tape"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Reel-to-reel tape is the format that professional recording studios used for decades. Before the compact cassette and digital audio, nearly every commercial album was mixed and mastered on open-reel tape. Today, a small but passionate community of enthusiasts collects and uses vintage reel-to-reel decks, attracted by the unique sound character of tape and the physical, hands-on experience of the format. If you are curious about getting started, here is what you need to know.
 
@@ -59,9 +60,8 @@ If reel-to-reel feels like a jump, vinyl is a more accessible analog starting po
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[Vinyl Record Storage Crate](https://www.amazon.com/s?k=vinyl+record+storage+crate+wooden)**
+- **[Vinyl Record Storage Crate](https://www.amazon.com/s?k=vinyl+record+storage+crate+wooden&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
