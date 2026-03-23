@@ -3,13 +3,20 @@ layout: post
 title: "Phono Preamps Explained: What You Actually Need"
 date: 2026-03-16
 description: "Learn exactly what a phono preamp does, whether you need one, and what to look for when choosing between built-in stages and external options."
+image: /assets/images/2026-03-16-phono-preamps-explained.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 A turntable produces an incredibly small signal - far too weak to connect directly to a standard amplifier input. I have found that this is one of the most confusing parts of setting up a vinyl system for the first time, because many people plug in a turntable and wonder why they hear almost nothing. The missing piece is a phono preamp, and understanding what it does will save you a lot of frustration and money.
 
 **Safety Note:** Phono preamps are low-voltage signal devices and are generally safe to handle and connect yourself. However, if you are routing a phono stage through a vintage integrated amplifier or receiver that has a built-in phono input, do not attempt to open the amplifier to inspect or modify the phono circuitry unless you are experienced with high-voltage electronics. Vintage amplifier power supplies can hold dangerous charge even when unplugged. If you suspect a faulty built-in phono stage, have it checked by a qualified technician.
+
+
+![Phono Preamps Explained: What You Actually Need](/assets/images/2026-03-16-phono-preamps-explained.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@tstudio_lv?utm_source=artlines_blog&utm_medium=referral">TStudio_lv</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Does a Phono Preamp Actually Do?
 
@@ -96,4 +103,3 @@ If you are new to vinyl and still choosing your first setup, the [Beginner's Gui
   <p><strong>About the Author</strong></p>
   <p>The Analog Revivalist team writes about vintage audio restoration, from sourcing components to final listening tests. Our guides are rooted in practical bench experience - we don't recommend what we haven't taken apart ourselves.</p>
 </div>
-
