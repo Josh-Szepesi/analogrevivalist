@@ -2,7 +2,9 @@
 layout: post
 title: "How to Clean a Turntable Stylus: Protecting Your Records and Your Sound"
 date: 2026-03-11
+image: /assets/images/2026-03-11-how-to-clean-turntable-stylus.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ The stylus is the most critical contact point in your entire analog playback cha
 **Safety Note:** Never use alcohol-based cleaners on a stylus without confirming the cantilever glue on your specific cartridge is alcohol-resistant. Some budget cartridges use adhesives that dissolve with alcohol. When in doubt, use a dry stylus brush only.
 </div>
 
+
+
+![How to Clean a Turntable Stylus: Protecting Your Records and Your Sound](/assets/images/2026-03-11-how-to-clean-turntable-stylus.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@marcusurbenz?utm_source=artlines_blog&utm_medium=referral">Marcus Urbenz</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Gets on a Stylus
 
