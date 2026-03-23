@@ -4,6 +4,7 @@ title: "How to Clean a Turntable Stylus: Protecting Your Records and Your Sound"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 The stylus is the most critical contact point in your entire analog playback chain. This tiny diamond tip traces the microscopic grooves of your records and converts their physical undulations into electrical signals. When it is dirty, you hear the difference immediately: muffled highs, distortion, sibilance, and increased surface noise. More importantly, a contaminated stylus drags debris through those grooves and causes real physical damage to your records over time. Keeping the stylus clean is not optional for anyone serious about analog playback.
 
@@ -59,11 +60,10 @@ A clean stylus works best on clean records. Our [How to Clean Vinyl Records guid
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Audio-Technica AT-LP120](https://www.amazon.com/s?k=audio+technica+at+lp120+turntable)**
-- **[Pro-Ject Debut Turntable](https://www.amazon.com/s?k=pro+ject+debut+carbon+turntable)**
-- **[Turntable Dust Cover](https://www.amazon.com/s?k=turntable+dust+cover+replacement)**
+- **[Audio-Technica AT-LP120](https://www.amazon.com/s?k=audio+technica+at+lp120+turntable&tag=mbbeekeeping-20)**
+- **[Pro-Ject Debut Turntable](https://www.amazon.com/s?k=pro+ject+debut+carbon+turntable&tag=mbbeekeeping-20)**
+- **[Turntable Dust Cover](https://www.amazon.com/s?k=turntable+dust+cover+replacement&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
