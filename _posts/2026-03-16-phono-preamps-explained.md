@@ -5,6 +5,8 @@ date: 2026-03-16
 description: "Learn exactly what a phono preamp does, whether you need one, and what to look for when choosing between built-in stages and external options."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 A turntable produces an incredibly small signal - far too weak to connect directly to a standard amplifier input. I have found that this is one of the most confusing parts of setting up a vinyl system for the first time, because many people plug in a turntable and wonder why they hear almost nothing. The missing piece is a phono preamp, and understanding what it does will save you a lot of frustration and money.
 
 **Safety Note:** Phono preamps are low-voltage signal devices and are generally safe to handle and connect yourself. However, if you are routing a phono stage through a vintage integrated amplifier or receiver that has a built-in phono input, do not attempt to open the amplifier to inspect or modify the phono circuitry unless you are experienced with high-voltage electronics. Vintage amplifier power supplies can hold dangerous charge even when unplugged. If you suspect a faulty built-in phono stage, have it checked by a qualified technician.
@@ -49,7 +51,7 @@ Where this becomes relevant is with MC cartridges and with very low-output MM ca
 
 If you need an external phono preamp, there are solid options at every price point. I have worked through several of these personally when building budget systems.
 
-At the entry level (under $50), the field is thin but workable. These preamps are adequate for getting started with an MM cartridge and will be a genuine upgrade over the built-in stages on most budget turntables. You can find a range of options by [searching for phono preamps on Amazon](https://www.amazon.com/s?k=phono+preamp+mm+moving+magnet) - look for units with solid reviews and a clean 47k ohm input impedance spec.
+At the entry level (under $50), the field is thin but workable. These preamps are adequate for getting started with an MM cartridge and will be a genuine upgrade over the built-in stages on most budget turntables. You can find a range of options by [searching for phono preamps on Amazon](https://www.amazon.com/s?k=phono+preamp+mm+moving+magnet&tag=mbbeekeeping-20) - look for units with solid reviews and a clean 47k ohm input impedance spec.
 
 Between $100 and $200, quality improves noticeably. Units in this range tend to use better op-amps and cleaner power supplies, which reduces noise and improves detail. If you are running a quality turntable like a Rega Planar 1 or a Pro-Ject Debut Carbon, a preamp in this range will serve it properly. The Schiit Mani 2 ($149 at the time I last checked) is one I have returned to repeatedly for recommendation - it is US-designed, quiet, and handles both MM and MC.
 
@@ -95,4 +97,3 @@ If you are new to vinyl and still choosing your first setup, the [Beginner's Gui
   <p>The Analog Revivalist team writes about vintage audio restoration, from sourcing components to final listening tests. Our guides are rooted in practical bench experience - we don't recommend what we haven't taken apart ourselves.</p>
 </div>
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
