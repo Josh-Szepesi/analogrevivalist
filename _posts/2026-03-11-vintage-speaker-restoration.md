@@ -2,7 +2,9 @@
 layout: post
 title: "Vintage Speaker Restoration: Where to Start"
 date: 2026-03-11
+image: /assets/images/2026-03-11-vintage-speaker-restoration.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Vintage loudspeakers from the 1960s through the early 1980s represent some of th
 **Safety Note:** When reconing woofers or refoaming surrounds, work in a well-ventilated space - surround adhesives and solvents are strong. Wear gloves when handling contact cement. When testing restored speakers, start at low volume to check for rub before applying full power - a misaligned voice coil will destroy itself quickly at volume.
 </div>
 
+
+
+![Vintage Speaker Restoration: Where to Start](/assets/images/2026-03-11-vintage-speaker-restoration.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@smajor15?utm_source=artlines_blog&utm_medium=referral">Scott Major</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Deteriorates Over Time
 
