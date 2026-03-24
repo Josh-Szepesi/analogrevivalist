@@ -36,7 +36,7 @@ Some moving coil cartridges are designed with higher output, typically 1.5 to 2.
 
 Stereophile's [cartridge measurement archive](https://www.stereophile.com/content/cartridge-measurements) includes frequency response and channel separation measurements for hundreds of cartridges - useful for comparing specs beyond marketing copy.
 
-## Which Should You Choose?
+## Which Should You Choose
 
 For most beginners and intermediate listeners, a quality moving magnet cartridge is the right choice. Excellent MM cartridges from Audio-Technica, Ortofon, Nagaoka, and Grado in the $50 to $300 range are capable of genuinely good sound and are easy to live with. The replaceable stylus is a significant practical advantage.
 
