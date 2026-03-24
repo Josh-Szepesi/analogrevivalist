@@ -18,7 +18,7 @@ A turntable produces an incredibly small signal - far too weak to connect direct
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@tstudio_lv?utm_source=artlines_blog&utm_medium=referral">TStudio_lv</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## What Does a Phono Preamp Actually Do
+## What Does a Phono Preamp Actually Do?
 
 A phono preamp - also called a phono stage - does two things. First, it amplifies the tiny signal from your cartridge up to line level, which is the standard voltage that amplifiers, receivers, and powered speakers expect. Second, it applies a correction curve called the RIAA equalization curve.
 
@@ -26,7 +26,7 @@ The RIAA curve matters because vinyl records are not cut flat. When a record is 
 
 I always tell people to think of a phono preamp as both a volume boost and a tone correction happening at the same time. Neither is optional if you want accurate playback.
 
-## Do You Need a Separate Phono Preamp
+## Do You Need a Separate Phono Preamp?
 
 Not necessarily - it depends on your equipment. There are three situations you will commonly encounter.
 
@@ -94,7 +94,7 @@ As long as the preamp supports your cartridge type (MM or MC), yes. The connecti
 
 ## Related Reading
 
-- [MM vs MC Cartridges: What is the Difference](https://analogrevivalist.com/2026/03/11/mm-vs-mc-cartridges)
+- [MM vs MC Cartridges: What is the Difference?](https://analogrevivalist.com/2026/03/11/mm-vs-mc-cartridges)
 - [Setting Up a Vintage Receiver for Modern Use](https://analogrevivalist.com/2026/03/11/setting-up-vintage-receiver)
 
 If you are new to vinyl and still choosing your first setup, the [Beginner's Guide to Vintage HiFi](https://analogrevivalist.com/2026/03/11/beginners-guide-to-vintage-hifi) covers how all the components fit together, including where the phono stage sits in the signal chain.
