@@ -20,7 +20,7 @@ Reel-to-reel tape is the format that professional recording studios used for dec
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@stevengbrown?utm_source=artlines_blog&utm_medium=referral">Steven Brown</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## Why Reel-to-Reel?
+## Why Reel-to-Reel
 
 The appeal is partly sonic and partly tactile. Tape has a natural compression and a subtle high-frequency roll-off that many listeners find pleasing, particularly with music that was originally recorded to tape. Watching the reels spin and threading the tape by hand creates an engagement with the music that streaming and even vinyl cannot fully replicate for some enthusiasts.
 
