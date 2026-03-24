@@ -69,8 +69,8 @@ Once your receiver is running, pair it with a turntable. Our [Best Budget Turnta
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[Phono Preamp Turntable MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc&tag=mbbeekeeping-20)**
-- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo+audiophile&tag=mbbeekeeping-20)**
+- **[Phono Preamp Turntable MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc)**
+- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo+audiophile)**
 
 
 <div class="author-bio">
