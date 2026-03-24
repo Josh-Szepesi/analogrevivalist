@@ -18,7 +18,7 @@ Getting into vinyl doesn't require spending a fortune, but the budget segment is
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@myshegotripped?utm_source=artlines_blog&utm_medium=referral">Mandy Bourke</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## What Makes a Good Starter Turntable?
+## What Makes a Good Starter Turntable
 
 Before I get into specific recommendations, it helps to know what actually matters at this price range. You want a deck with a replaceable cartridge (not a sealed unit you can never upgrade), a tonearm with an adjustable counterweight, and enough motor isolation to keep rumble from muddying your bass.
 
@@ -82,7 +82,7 @@ The [ART DJ Pre II](https://www.amazon.com/s?k=ART+DJ+Pre+II+phono+preamp) is re
 
 If your budget can stretch slightly, the Schiit Mani at $149 is the preamp I'd genuinely recommend for a longer-term setup. It's the quietest preamp I've owned at anywhere near its price, handles both MM and MC cartridges, and is built to last.
 
-## Which Setup Is Right for You?
+## Which Setup Is Right for You
 
 Here's how I'd think about it:
 
