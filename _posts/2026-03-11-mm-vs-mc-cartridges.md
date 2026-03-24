@@ -58,9 +58,9 @@ Whichever cartridge you choose, tracking force setup is critical. See our [Setti
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Audio-Technica VM95E](https://www.amazon.com/s?k=audio+technica+vm95e+cartridge&tag=mbbeekeeping-20)**
-- **[Ortofon 2M Red](https://www.amazon.com/s?k=ortofon+2m+red+cartridge&tag=mbbeekeeping-20)**
-- **[Stylus Replacement Needle](https://www.amazon.com/s?k=turntable+stylus+replacement+needle&tag=mbbeekeeping-20)**
+- **[Audio-Technica VM95E](https://www.amazon.com/s?k=audio+technica+vm95e+cartridge)**
+- **[Ortofon 2M Red](https://www.amazon.com/s?k=ortofon+2m+red+cartridge)**
+- **[Stylus Replacement Needle](https://www.amazon.com/s?k=turntable+stylus+replacement+needle)**
 
 
 <div class="author-bio">
