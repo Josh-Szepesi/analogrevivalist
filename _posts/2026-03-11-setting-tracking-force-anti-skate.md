@@ -15,7 +15,7 @@ Two of the most important adjustments on any turntable are tracking force and an
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@dentistozkanguner?utm_source=artlines_blog&utm_medium=referral">Ozkan Guner</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## What Is Tracking Force
+## What Is Tracking Force?
 
 Tracking force, also called vertical tracking force or VTF, is the downward pressure the stylus exerts on the record groove, measured in grams. Every [cartridge](/2026/03/11/mm-vs-mc-cartridges.html) has a recommended tracking force range specified by the manufacturer, typically something like 1.8 to 2.2 grams with an optimal point of 2.0 grams.
 
@@ -37,7 +37,7 @@ Once balanced, rotate only the outer scale ring (not the body of the counterweig
 
 Verify the actual force with your scale and fine-adjust as needed.
 
-## What Is Anti-Skate
+## What Is Anti-Skate?
 
 As the tonearm tracks from the outer groove to the inner groove, a skating force pulls the arm toward the center of the record. This lateral force occurs because the tonearm is not perfectly tangential to the groove. Anti-skate applies a counterbalancing outward force to keep the stylus sitting evenly between the two groove walls. Without it, the stylus presses harder against the inner groove wall, which causes distortion and uneven stylus wear.
 
