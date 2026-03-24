@@ -67,7 +67,7 @@ If reel-to-reel feels like a jump, vinyl is a more accessible analog starting po
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[Vinyl Record Storage Crate](https://www.amazon.com/s?k=vinyl+record+storage+crate+wooden&tag=mbbeekeeping-20)**
+- **[Vinyl Record Storage Crate](https://www.amazon.com/s?k=vinyl+record+storage+crate+wooden)**
 
 
 <div class="author-bio">
