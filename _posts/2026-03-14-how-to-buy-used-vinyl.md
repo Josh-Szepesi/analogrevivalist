@@ -52,7 +52,7 @@ Remove the record from the sleeve and hold it at roughly a 45-degree angle under
 
 Don't overlook the label. A label that's heavily water-damaged, covered in thick marker writing, or partially torn suggests the record was stored poorly - which usually means the vinyl suffered too. A clean, undamaged label is a reasonable sign that someone looked after their records.
 
-The inner sleeve matters more than most people realize. Old paper sleeves shed paper particles into the grooves over time. If I buy a record in a flimsy original paper sleeve, I replace it immediately with fresh polyethylene inner sleeves. [Polyethylene inner sleeves](https://www.amazon.com/s?k=polyethylene+inner+record+sleeves+12+inch&tag=mbbeekeeping-20) run about $15-20 for a pack of 50 and are one of the best small investments you can make for protecting vinyl.
+The inner sleeve matters more than most people realize. Old paper sleeves shed paper particles into the grooves over time. If I buy a record in a flimsy original paper sleeve, I replace it immediately with fresh polyethylene inner sleeves. [Polyethylene inner sleeves](https://www.amazon.com/s?k=polyethylene+inner+record+sleeves+12+inch) run about $15-20 for a pack of 50 and are one of the best small investments you can make for protecting vinyl.
 
 ## Why Pressing Quality Matters
 
@@ -90,7 +90,7 @@ The most reliable pricing reference is Discogs itself. Search for the specific p
 
 No matter how clean a used record looks, I clean it before it goes on my turntable. Cleaning removes residual oils, dust, and fine particles that aren't visible to the naked eye but show up as clicks and pops the first time you play it. If you haven't settled on a cleaning method yet, my guide to [cleaning vinyl records properly](https://analogrevivalist.com/2026/03/11/how-to-clean-vinyl-records.html) covers both budget and thorough approaches that work well.
 
-For quick maintenance between plays, a good [carbon fiber record brush](https://www.amazon.com/s?k=carbon+fiber+record+cleaning+brush+vinyl&tag=mbbeekeeping-20) dragged lightly across the playing surface before each side makes a real, audible difference in surface noise. On used records, this is especially worth doing every time.
+For quick maintenance between plays, a good [carbon fiber record brush](https://www.amazon.com/s?k=carbon+fiber+record+cleaning+brush+vinyl) dragged lightly across the playing surface before each side makes a real, audible difference in surface noise. On used records, this is especially worth doing every time.
 
 ## FAQ
 
