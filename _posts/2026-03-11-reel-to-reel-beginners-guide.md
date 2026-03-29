@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reel-to-Reel Tape Decks: A Beginner's Guide to Vintage Tape"
+description: "Reel-to-reel tape decks offer a listening experience unlike any other format — a beginner's guide to buying, setting up, and maintaining vintage tape machines."
 date: 2026-03-11
 image: /assets/images/2026-03-11-reel-to-reel-beginners-guide.jpg
 ---
