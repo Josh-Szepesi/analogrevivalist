@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Set Turntable Tracking Force and Anti-Skate"
+description: "Correctly setting tracking force and anti-skate protects your records and improves sound — a step-by-step guide to dialing in both adjustments on any turntable."
 date: 2026-03-11
 image: /assets/images/2026-03-11-setting-tracking-force-anti-skate.jpg
 ---
