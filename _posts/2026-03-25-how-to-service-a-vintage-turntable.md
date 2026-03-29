@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Service a Vintage Turntable: Belts, Bearings, and Cleaning"
+description: "A vintage turntable from a closet almost always needs service before it sounds right — learn to replace belts, clean bearings, and restore accurate speed."
 date: 2026-03-25
 image: /assets/images/2026-03-25-how-to-service-a-vintage-turntable.jpg
 ---
