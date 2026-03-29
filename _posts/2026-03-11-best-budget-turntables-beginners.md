@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Best Budget Turntables for Beginners: What to Look For"
+description: "Cut through the marketing noise and find the best budget turntable for beginners — honest picks that actually play vinyl correctly without hidden compromises."
 date: 2026-03-11
 image: /assets/images/2026-03-11-best-budget-turntables-beginners.jpg
 ---
