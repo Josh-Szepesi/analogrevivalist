@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Store Vinyl Records to Prevent Warping and Damage"
+description: "Store vinyl records properly to prevent warping, mold, and static damage — the right shelving, inner sleeves, and climate conditions to protect your collection."
 date: 2026-03-28
 image: /assets/images/2026-03-28-how-to-store-vinyl-records-prevent-warping.jpg
 ---
