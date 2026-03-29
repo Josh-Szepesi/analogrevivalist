@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Buying Your First Tube Amplifier: What to Look For"
+description: "Buying your first tube amplifier means navigating used-market pitfalls and spec confusion — learn what actually matters for sound quality and long-term reliability."
 date: 2026-03-11
 image: /assets/images/2026-03-11-buying-your-first-tube-amplifier.jpg
 ---
