@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Best Affordable Bookshelf Speakers for Vintage HiFi"
+description: "The best affordable bookshelf speakers for vintage HiFi don't require a big budget — picks from $50–$300 that pair well with vintage receivers and integrated amps."
 date: 2026-03-26
 image: /assets/images/2026-03-26-best-affordable-bookshelf-speakers-vintage-hifi.jpg
 ---
