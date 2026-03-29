@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vintage Integrated Amplifier Buying Guide: What to Look For on the Used Market"
+description: "Buying a vintage integrated amplifier on the used market means avoiding lemons and overpaying — learn what to inspect, test, and walk away from before buying."
 date: 2026-03-24
 image: /assets/images/2026-03-24-vintage-integrated-amplifier-buying-guide.jpg
 ---
