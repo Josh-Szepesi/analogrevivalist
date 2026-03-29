@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Setting Up a Vintage Receiver: Connections, Speakers, and First Steps"
+description: "Setting up a vintage receiver for the first time — how to connect speakers, a turntable, and other sources safely without damaging your equipment or hearing."
 date: 2026-03-11
 image: /assets/images/2026-03-11-setting-up-vintage-receiver.jpg
 ---
