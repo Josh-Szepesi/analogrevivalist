@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Clean a Turntable Stylus: Protecting Your Records and Your Sound"
+description: "A clean turntable stylus protects your records and preserves sound quality — learn safe cleaning methods and how often to clean without risking stylus damage."
 date: 2026-03-11
 image: /assets/images/2026-03-11-how-to-clean-turntable-stylus.jpg
 ---
