@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MM vs. MC Cartridges: Understanding Moving Magnet and Moving Coil"
+description: "MM vs. MC phono cartridges explained — understand the real differences in output level, loading, compatibility, and sound character before choosing one."
 date: 2026-03-11
 image: /assets/images/2026-03-11-mm-vs-mc-cartridges.jpg
 ---
