@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vintage Speaker Restoration: Where to Start"
+description: "Vintage speakers from the 1960s–80s often outperform modern budget options — learn where to start with restoration, what to inspect first, and what to avoid."
 date: 2026-03-11
 image: /assets/images/2026-03-11-vintage-speaker-restoration.jpg
 ---
