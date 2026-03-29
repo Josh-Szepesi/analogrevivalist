@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Clean Vinyl Records Properly: Methods for Every Budget"
+description: "Clean vinyl records sound better and last longer — compare dry brushing, wet cleaning, and ultrasonic methods to find the right approach for your collection."
 date: 2026-03-11
 image: /assets/images/2026-03-11-how-to-clean-vinyl-records.jpg
 ---
