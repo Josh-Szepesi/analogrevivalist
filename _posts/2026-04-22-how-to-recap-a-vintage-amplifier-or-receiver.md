@@ -24,7 +24,7 @@ When you decide to recap a vintage amplifier or receiver, you are restoring the 
 
 ## Essential Tools for a Professional Recapping Project
 
-You cannot do this job with a cheap, 15 dollar soldering stick from the hardware store. Those irons lack temperature control and will either stay too cold to melt old leaded solder or get so hot they lift the delicate copper traces right off the vintage circuit board. To do this right, you need a dedicated station. I highly recommend the [Hakko FX-888D Digital Soldering Station](https://www.amazon.com/dp/B071Z948QJ). It provides consistent heat and allows you to dial in the exact temperature needed for different parts of the board. For most vintage boards, 350 degrees Celsius is the sweet spot.
+You cannot do this job with a cheap, 15 dollar soldering stick from the hardware store. Those irons lack temperature control and will either stay too cold to melt old leaded solder or get so hot they lift the delicate copper traces right off the vintage circuit board. To do this right, you need a dedicated station. I highly recommend the [Hakko FX-888D Digital Soldering Station](https://www.amazon.com/dp/B00ANZRT4M). It provides consistent heat and allows you to dial in the exact temperature needed for different parts of the board. For most vintage boards, 350 degrees Celsius is the sweet spot.
 
 Beyond the iron, your most important diagnostic tool is a high quality digital multimeter. You need to verify voltages and check for continuity throughout the process. It is incredibly accurate and, more importantly, it is fast. When you are checking for DC offset at the speaker terminals, you want a meter that settles on a reading immediately so you can make precise adjustments to the trim pots.
 
