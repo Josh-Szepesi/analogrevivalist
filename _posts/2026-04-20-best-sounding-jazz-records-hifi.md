@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best sounding jazz records for HiFi listening sessions"
+title: "Best Sounding Jazz Records for HiFi Listening Sessions"
 description: "Discover the best sounding jazz records that elevate your vintage HiFi system. We share top pressings and setup tips for unparalleled listening sessions."
 date: 2026-04-20
 image: /assets/images/2026-04-20-best-sounding-jazz-records-hifi.jpg
