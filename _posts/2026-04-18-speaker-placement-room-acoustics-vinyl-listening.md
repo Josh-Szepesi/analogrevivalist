@@ -53,7 +53,7 @@ Toe-in means angling the speakers inward toward the listening position. Some spe
 
 **Step 4: Adjust tweeter height.**
 
-The tweeter should be at ear level when seated. For small bookshelf speakers on stands, this is the main reason stands matter beyond aesthetics. A speaker with its tweeter pointed at your chest or at the ceiling loses upper-frequency detail in the listening position. Speaker isolation pads such as the [2-pack acoustic isolation pads by a popular budget brand](https://www.amazon.com/dp/B07H1D66GT) can also be used to angle the speaker slightly upward or downward when fine-tuning tweeter aim.
+The tweeter should be at ear level when seated. For small bookshelf speakers on stands, this is the main reason stands matter beyond aesthetics. A speaker with its tweeter pointed at your chest or at the ceiling loses upper-frequency detail in the listening position. Speaker isolation pads such as the [2-pack acoustic isolation pads by a popular budget brand](https://www.amazon.com/dp/B07H1D66GT?tag=analogrevivalist-20) can also be used to angle the speaker slightly upward or downward when fine-tuning tweeter aim.
 
 **Step 5: Check mono for symmetry.**
 
@@ -85,7 +85,7 @@ Acoustic treatment for a home listening room doesn't need to look like a recordi
 
 **The three highest-impact locations for treatment:**
 
-First reflections from the side walls are the single most audible problem in most rooms. Placing absorption at the mirror points on both side walls improves stereo imaging noticeably. Acoustic foam panels or a thick bookshelf can both work. A set of acoustic foam wedge panels like [these 12x12x1-inch wedge-style foam panels](https://www.amazon.com/dp/B01B3Y6QDG) placed at the side-wall reflection points provides measurable reduction in reflected energy. The panels do not need to be large or expensive. A 2 square foot patch at each reflection point is enough to make an audible difference.
+First reflections from the side walls are the single most audible problem in most rooms. Placing absorption at the mirror points on both side walls improves stereo imaging noticeably. Acoustic foam panels or a thick bookshelf can both work. A set of acoustic foam wedge panels like [these 12x12x1-inch wedge-style foam panels](https://www.amazon.com/dp/B01B3Y6QDG?tag=analogrevivalist-20) placed at the side-wall reflection points provides measurable reduction in reflected energy. The panels do not need to be large or expensive. A 2 square foot patch at each reflection point is enough to make an audible difference.
 
 Bass trapping in room corners is the second-highest-impact treatment. Bass builds up in room corners because that's where pressure from multiple boundaries accumulates. Broadband bass traps (thick mineral wool or open-cell foam) placed floor-to-ceiling in corners reduce low-frequency modal resonance. This is the treatment that's most commonly underdone in amateur listening rooms because it requires bulky material, but it's the one that actually tightens up muddy bass.
 
@@ -95,7 +95,7 @@ Rear-wall diffusion or absorption prevents rear-wall reflections from muddying t
 
 Egg carton foam is an internet myth. It has almost no acoustic absorption value and creates a fire risk. Thin foam squares less than 1 inch thick absorb high frequencies only and do nothing for mid-bass. Carpeting on one wall is decorative, not acoustic treatment.
 
-For speaker coupling to the equipment rack or stand, using isolation pads under bookshelf speakers reduces transmitted vibration back into the record player or the shelf structure. The [Fluance High Density Acoustic Foam Isolation Pads](https://www.amazon.com/dp/B09GW2Z41H) are a solid option for this purpose, designed specifically for bookshelf speakers with adjustable listening angles built into the geometry of the pad.
+For speaker coupling to the equipment rack or stand, using isolation pads under bookshelf speakers reduces transmitted vibration back into the record player or the shelf structure. The [Fluance High Density Acoustic Foam Isolation Pads](https://www.amazon.com/dp/B09GW2Z41H?tag=analogrevivalist-20) are a solid option for this purpose, designed specifically for bookshelf speakers with adjustable listening angles built into the geometry of the pad.
 
 For a rigorous overview of room acoustics fundamentals, the [Acoustics of Small Rooms guide from the Acoustical Society of America](https://acousticalsociety.org/education/) provides technical depth for those who want to understand the physics behind the recommendations.
 
