@@ -32,7 +32,7 @@ The AT-VM95E sits at the top of the true entry-level tier and has been our most-
 
 In practice, we find the AT-VM95E has a slight forward tilt in the high midrange that makes vocals and acoustic instruments sound immediate and present. It tracks reliably at 2.0g and handles dynamic transients without complaint. The stylus snaps in and out of the cartridge body, and Audio-Technica's VM95 series allows you to upgrade the stylus alone to higher-spec profiles (elliptical, MicroLinear, or micro-line) as your budget grows without replacing the entire cartridge body.
 
-The AT-VM95E can be found at [https://www.amazon.com/dp/B07JXD79Q1](https://www.amazon.com/dp/B07JXD79Q1).
+The AT-VM95E can be found at [https://www.amazon.com/dp/B07JXD79Q1?tag=analogrevivalist-20](https://www.amazon.com/dp/B07JXD79Q1?tag=analogrevivalist-20).
 
 ### Ortofon 2M Red
 
@@ -42,7 +42,7 @@ The 2M Red uses a spherical stylus at the entry point of the 2M line. The stylus
 
 We have found the 2M Red to be a forgiving tracker on slightly warped records and on tonearms with effective masses in the 12-15g range. Its compliance of 20 micrometers per millinewton makes it a good match for the medium-mass tonearms found on most popular entry-level turntables.
 
-The Ortofon 2M Red is available at [https://www.amazon.com/dp/B000WMCEKK](https://www.amazon.com/dp/B000WMCEKK). Ortofon publishes full specifications and compatible stylus upgrade paths on [their official product page](https://www.ortofon.com/2m-red-p-1229).
+The Ortofon 2M Red is available at [https://www.amazon.com/dp/B000WMCEKK?tag=analogrevivalist-20](https://www.amazon.com/dp/B000WMCEKK?tag=analogrevivalist-20). Ortofon publishes full specifications and compatible stylus upgrade paths on [their official product page](https://www.ortofon.com/2m-red-p-1229).
 
 ### Audio-Technica AT-VM95ML (The Upgrade Pick)
 
@@ -50,7 +50,7 @@ The AT-VM95ML uses the same cartridge body as the AT-VM95E but replaces the elli
 
 At around $149, the AT-VM95ML is not cheap for an "entry-level" recommendation. But if your turntable is a capable unit with a decent tonearm (a Rega Planar 1, Pro-Ject Debut Carbon, or Technics SL-1200 series), the ML stylus reveals detail that the elliptical cannot. We switched from the AT-VM95E to the ML on a Rega Planar 2 and the difference on well-pressed jazz pressings was immediately audible to everyone in the room. On beat-up thrift store records, the gap closes significantly.
 
-The AT-VM95ML is available at [https://www.amazon.com/dp/B07JLYHFR9](https://www.amazon.com/dp/B07JLYHFR9).
+The AT-VM95ML is available at [https://www.amazon.com/dp/B07JLYHFR9?tag=analogrevivalist-20](https://www.amazon.com/dp/B07JLYHFR9?tag=analogrevivalist-20).
 
 ## Head-to-Head Comparison: Entry-Level Cartridges at a Glance
 
