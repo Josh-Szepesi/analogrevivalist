@@ -58,7 +58,7 @@ Where this becomes relevant is with MC cartridges and with very low-output MM ca
 
 If you need an external phono preamp, there are solid options at every price point. I have worked through several of these personally when building budget systems.
 
-At the entry level (under $50), the field is thin but workable. These preamps are adequate for getting started with an MM cartridge and will be a genuine upgrade over the built-in stages on most budget turntables. You can find a range of options by [searching for phono preamps on Amazon](https://www.amazon.com/s?k=phono+preamp+mm+moving+magnet) - look for units with solid reviews and a clean 47k ohm input impedance spec.
+At the entry level (under $50), the field is thin but workable. These preamps are adequate for getting started with an MM cartridge and will be a genuine upgrade over the built-in stages on most budget turntables. You can find a range of options by [searching for phono preamps on Amazon](https://www.amazon.com/s?k=phono+preamp+mm+moving+magnet&tag=analogrevivalist-20) - look for units with solid reviews and a clean 47k ohm input impedance spec.
 
 Between $100 and $200, quality improves noticeably. Units in this range tend to use better op-amps and cleaner power supplies, which reduces noise and improves detail. If you are running a quality turntable like a Rega Planar 1 or a Pro-Ject Debut Carbon, a preamp in this range will serve it properly. The Schiit Mani 2 ($149 at the time I last checked) is one I have returned to repeatedly for recommendation - it is US-designed, quiet, and handles both MM and MC.
 
