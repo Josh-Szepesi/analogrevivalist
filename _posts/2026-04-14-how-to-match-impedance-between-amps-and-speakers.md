@@ -67,7 +67,7 @@ In our experience testing vintage drivers, this method is reliable enough for a 
 
 **With a dedicated impedance tester:**
 
-Instruments like the [allsun EM480B](https://www.amazon.com/dp/B09BL1Z272) measure AC impedance at a test frequency, giving a more accurate picture than DC resistance. For most vintage HiFi work, the multimeter method is sufficient, but if you're recapping crossovers or building a speaker system from drivers, a proper impedance measurement tells you much more.
+Instruments like the [allsun EM480B](https://www.amazon.com/dp/B09BL1Z272?tag=analogrevivalist-20) measure AC impedance at a test frequency, giving a more accurate picture than DC resistance. For most vintage HiFi work, the multimeter method is sufficient, but if you're recapping crossovers or building a speaker system from drivers, a proper impedance measurement tells you much more.
 
 **Checking the spec sheet:**
 
@@ -102,13 +102,13 @@ Sometimes the speakers you want to use don't sit cleanly within an amplifier's r
 
 **Speaker selectors with impedance protection**
 
-A speaker selector switch with built-in impedance protection uses resistive networks to prevent the total load from dropping below a safe threshold regardless of how many pairs are connected. These are the cleanest solution when running two or more pairs off a vintage receiver. The [Monoprice SS-Pro 12 Speaker Selector](https://www.amazon.com/dp/B07ZP9BR7Y) is a well-regarded option that handles up to 12 pairs and includes adjustable impedance protection per zone.
+A speaker selector switch with built-in impedance protection uses resistive networks to prevent the total load from dropping below a safe threshold regardless of how many pairs are connected. These are the cleanest solution when running two or more pairs off a vintage receiver. The [Monoprice SS-Pro 12 Speaker Selector](https://www.amazon.com/dp/B07ZP9BR7Y?tag=analogrevivalist-20) is a well-regarded option that handles up to 12 pairs and includes adjustable impedance protection per zone.
 
 The tradeoff is a small insertion loss: the resistive network absorbs some power, so you will notice the amp working harder at the same volume. For casual multiroom listening, this is acceptable. For critical listening in a single room, it is better to match impedance through driver or speaker selection than to add a passive network in the signal path.
 
 **Impedance matching transformers**
 
-Line-matching transformers like the [Bogen WMT1A](https://www.amazon.com/dp/B0GRX2L4WD) can step impedance between incompatible source and load values. These are used most often in commercial or distributed audio contexts, and in vintage home HiFi they're relevant primarily for 70V distributed speaker systems or for adapting very unusual speaker loads. For typical 4-16 ohm home speakers and receivers, a transformer is overkill and adds sonic coloration. It is a last resort, not a first step.
+Line-matching transformers like the [Bogen WMT1A](https://www.amazon.com/dp/B0GRX2L4WD?tag=analogrevivalist-20) can step impedance between incompatible source and load values. These are used most often in commercial or distributed audio contexts, and in vintage home HiFi they're relevant primarily for 70V distributed speaker systems or for adapting very unusual speaker loads. For typical 4-16 ohm home speakers and receivers, a transformer is overkill and adds sonic coloration. It is a last resort, not a first step.
 
 **Series resistors (DIY approach)**
 
