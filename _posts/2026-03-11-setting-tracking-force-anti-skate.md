@@ -67,9 +67,9 @@ A well-set cartridge also needs clean records to track well. Our [How to Clean V
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Stylus Force Gauge Digital](https://www.amazon.com/s?k=stylus+force+gauge+digital+turntable)**
-- **[Anti-Skate Weight](https://www.amazon.com/s?k=turntable+anti+skate+weight)**
-- **[Turntable Alignment Tool](https://www.amazon.com/s?k=turntable+cartridge+alignment+protractor)**
+- **[Stylus Force Gauge Digital](https://www.amazon.com/s?k=stylus+force+gauge+digital+turntable&tag=analogrevivalist-20)**
+- **[Anti-Skate Weight](https://www.amazon.com/s?k=turntable+anti+skate+weight&tag=analogrevivalist-20)**
+- **[Turntable Alignment Tool](https://www.amazon.com/s?k=turntable+cartridge+alignment+protractor&tag=analogrevivalist-20)**
 
 
 <div class="author-bio">
