@@ -39,7 +39,7 @@ The used cassette market is active but uneven. Prices have risen significantly s
 
 **Reasonable prices in 2026:** Functional mid-tier two-head decks run $50-$150. Good three-head machines in working condition start around $150 and go up quickly for known performers like Nakamichi or Sony TC-K-series. Anything advertised as "just serviced" by a known technician commands a premium that is usually justified.
 
-If you prefer a new machine rather than hunting used, the [TEAC W-1200B](https://www.amazon.com/dp/B07G9NBW1L) is the only serious new dual-deck cassette option currently available. It is not a vintage machine and does not perform like one at the top end, but it works reliably, records to both Type I and Type II tape, and is a sensible entry point if you want something that does not need maintenance before you start.
+If you prefer a new machine rather than hunting used, the [TEAC W-1200B](https://www.amazon.com/dp/B07G9NBW1L?tag=analogrevivalist-20) is the only serious new dual-deck cassette option currently available. It is not a vintage machine and does not perform like one at the top end, but it works reliably, records to both Type I and Type II tape, and is a sensible entry point if you want something that does not need maintenance before you start.
 
 ## Setting Up Your Deck: First Steps Before You Press Play
 
@@ -53,7 +53,7 @@ Before loading a tape into a newly acquired deck, take ten minutes to inspect an
 
 **Step 4: Check head azimuth with a reference tape.** Azimuth is the vertical angle of the head gap relative to the tape. Even a slight misalignment smears high-frequency response and collapses stereo imaging. Play a known-good tape and check for HF content and center image stability. If either is off, azimuth may need adjustment, which requires a test tape and a small screwdriver.
 
-**Step 5: Demagnetize the heads.** Magnetized heads add noise and compress dynamics. Use a cassette demagnetizer before your first recording session and periodically after that. The [Vinyl Styl Audio Cassette Head Cleaner and Demagnetizer](https://www.amazon.com/dp/B07DYCDSSN) handles both steps in a single cassette-sized cartridge and is the simplest option for regular maintenance.
+**Step 5: Demagnetize the heads.** Magnetized heads add noise and compress dynamics. Use a cassette demagnetizer before your first recording session and periodically after that. The [Vinyl Styl Audio Cassette Head Cleaner and Demagnetizer](https://www.amazon.com/dp/B07DYCDSSN?tag=analogrevivalist-20) handles both steps in a single cassette-sized cartridge and is the simplest option for regular maintenance.
 
 ## Choosing and Using Cassette Tapes
 
@@ -65,7 +65,7 @@ Tape choice matters more than most people starting out expect. The blank tape ma
 
 **Type IV (metal)** offers the highest output and widest frequency response but requires a deck with a metal-capable bias setting. Most mid-tier decks do not support metal. Unless you specifically have a deck like a Nakamichi Dragon or a Sony TC-K700ES that handles metal well, Type II is where to put your attention.
 
-A practical starting pack is a box of [blank 90-minute Type I cassettes](https://www.amazon.com/dp/B0D5LXRPQ8) for making recordings and experimenting with bias, plus a few pieces of used NOS Type II stock from eBay for serious recording sessions. C-60 (30 minutes per side) and C-90 (45 minutes per side) are the most useful lengths. Avoid C-120 tapes; the thinner tape stock is more prone to stretching and dropouts.
+A practical starting pack is a box of [blank 90-minute Type I cassettes](https://www.amazon.com/dp/B0D5LXRPQ8?tag=analogrevivalist-20) for making recordings and experimenting with bias, plus a few pieces of used NOS Type II stock from eBay for serious recording sessions. C-60 (30 minutes per side) and C-90 (45 minutes per side) are the most useful lengths. Avoid C-120 tapes; the thinner tape stock is more prone to stretching and dropouts.
 
 **Tape storage:** Store tapes spine-out in their cases, away from magnetic fields and heat. Fast-forward to the end and rewind before long storage to prevent print-through, which is when a loud passage bleeds a faint ghost onto the adjacent layer of tape.
 
