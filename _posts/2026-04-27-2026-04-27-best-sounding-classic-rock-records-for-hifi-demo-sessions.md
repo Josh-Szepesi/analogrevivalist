@@ -15,15 +15,15 @@ High-fidelity restoration requires high-fidelity testing. Using a compressed dig
 
 ## Steely Dan - Aja
 Often cited as the pinnacle of studio production, this album is essential for checking channel separation and clarity. The title track, in particular, features complex percussion and woodwinds that will highlight any lingering distortion in your preamp stage.
-[Check price for Steely Dan - Aja on Amazon](https://www.amazon.com/Aja-LP-Steely-Dan/dp/B0CJ9X9N5K)
+[Check price for Steely Dan - Aja on Amazon](https://www.amazon.com/Aja-LP-Steely-Dan/dp/B0CJ9X9N5K?tag=analogrevivalist-20)
 
 ## Pink Floyd - The Dark Side of the Moon
 This record tests the dynamic range and soundstage of your vintage system. From the heartbeat in "Speak to Me" to the explosive clocks in "Time," it pushes the limits of what a restored power transformer can handle. For specific pressing details and matrix numbers, consult the experts at [Discogs](https://www.discogs.com).
-[Check price for Dark Side of the Moon on Amazon](https://www.amazon.com/Dark-Side-Moon-50th-Anniversary/dp/B0BS969999)
+[Check price for Dark Side of the Moon on Amazon](https://www.amazon.com/Dark-Side-Moon-50th-Anniversary/dp/B0BS969999?tag=analogrevivalist-20)
 
 ## Fleetwood Mac - Rumours
 The acoustic textures and vocal layering on this album are perfect for testing the mid-range warmth of a recapped amplifier. If the harmonies on "The Chain" sound muddy, you may need to revisit your bias adjustments.
-[Check price for Fleetwood Mac - Rumours on Amazon](https://www.amazon.com/Rumours-Fleetwood-Mac/dp/B004OKFISW)
+[Check price for Fleetwood Mac - Rumours on Amazon](https://www.amazon.com/Rumours-Fleetwood-Mac/dp/B004OKFISW?tag=analogrevivalist-20)
 
 ## Frequently Asked Questions
 **What is the best way to clean records before a demo?**
