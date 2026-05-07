@@ -61,9 +61,9 @@ Once your turntable is chosen, you'll want to understand your cartridge options.
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Audio-Technica AT-LP120](https://www.amazon.com/s?k=audio+technica+at+lp120+turntable)**
-- **[Pro-Ject Debut Turntable](https://www.amazon.com/s?k=pro+ject+debut+carbon+turntable)**
-- **[Turntable Dust Cover](https://www.amazon.com/s?k=turntable+dust+cover+replacement)**
+- **[Audio-Technica AT-LP120](https://www.amazon.com/s?k=audio+technica+at+lp120+turntable&tag=analogrevivalist-20)**
+- **[Pro-Ject Debut Turntable](https://www.amazon.com/s?k=pro+ject+debut+carbon+turntable&tag=analogrevivalist-20)**
+- **[Turntable Dust Cover](https://www.amazon.com/s?k=turntable+dust+cover+replacement&tag=analogrevivalist-20)**
 
 
 <div class="author-bio">
