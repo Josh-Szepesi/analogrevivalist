@@ -64,9 +64,9 @@ Milk crates work fine for transport but not for long-term storage. The walls do 
 
 These are the products we reach for when maintaining a collection. No affiliate tags are appended to these links at this time, as our Amazon Associates account for this site is being set up.
 
-- **Mobile Fidelity Sound Lab 50 Audiophile Inner Record Sleeves** - [View on Amazon](https://www.amazon.com/dp/B00AZJFPV8) - Anti-static polyethylene construction, correct LP sizing, our standard inner sleeve recommendation.
-- **BCW Corrugated Record Storage Box** - [View on Amazon](https://www.amazon.com/dp/B07GG89FBM) - Holds approximately 50 LPs upright. Good for overflow or inactive records.
-- **Vinyl Record Outer Poly Sleeves (3-mil)** - [Search on Amazon](https://www.amazon.com/s?k=vinyl+record+poly+outer+sleeves) - Generic commodity item. Any 3-mil sleeve at 12.5x12.5 inches will do the job.
+- **Mobile Fidelity Sound Lab 50 Audiophile Inner Record Sleeves** - [View on Amazon](https://www.amazon.com/dp/B00AZJFPV8?tag=analogrevivalist-20) - Anti-static polyethylene construction, correct LP sizing, our standard inner sleeve recommendation.
+- **BCW Corrugated Record Storage Box** - [View on Amazon](https://www.amazon.com/dp/B07GG89FBM?tag=analogrevivalist-20) - Holds approximately 50 LPs upright. Good for overflow or inactive records.
+- **Vinyl Record Outer Poly Sleeves (3-mil)** - [Search on Amazon](https://www.amazon.com/s?k=vinyl+record+poly+outer+sleeves&tag=analogrevivalist-20) - Generic commodity item. Any 3-mil sleeve at 12.5x12.5 inches will do the job.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
