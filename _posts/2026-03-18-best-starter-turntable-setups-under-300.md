@@ -30,7 +30,7 @@ At under $300, your three strongest options are the Audio-Technica AT-LP120XUSB,
 
 ## The AT-LP120XUSB: Best All-in-One Pick
 
-The [Audio-Technica AT-LP120XUSB](https://www.amazon.com/dp/B07N3S4X3P) is the turntable I recommend to more people than any other at this price point. It's a direct-drive deck with a proper adjustable counterweight, anti-skate control, and a built-in phono preamp you can bypass when you're ready to add a dedicated unit. The USB output is a bonus if you ever want to digitize records.
+The [Audio-Technica AT-LP120XUSB](https://www.amazon.com/dp/B07N3S4X3P?tag=analogrevivalist-20) is the turntable I recommend to more people than any other at this price point. It's a direct-drive deck with a proper adjustable counterweight, anti-skate control, and a built-in phono preamp you can bypass when you're ready to add a dedicated unit. The USB output is a bonus if you ever want to digitize records.
 
 According to [Audio-Technica's product spec sheet](https://www.audio-technica.com/en-us/at-lp120xusb), the LP120XUSB ships with the AT-VM95E - a genuine moving magnet cartridge with a 0.3 x 0.7 mil elliptical stylus. In my testing, this cart tracks cleanly at 2.0 grams and extracts real detail from good pressings. Most newcomers are surprised by how much music is actually in their records once a properly aligned cartridge finds it.
 
@@ -42,7 +42,7 @@ For a deeper look at phono preamp options when you outgrow the built-in stage, s
 
 ## The U-Turn Orbit Plus: Best Belt-Drive Under $300
 
-The [U-Turn Orbit Plus](https://www.amazon.com/dp/B0CG9YR77K) is built in Woburn, Massachusetts, and the build quality shows. At around $259, it's a belt-drive deck with a noticeably tighter plinth and better bearing quality than most budget competition. Unlike the entry-level Orbit Basic, the Orbit Plus includes a built-in phono preamp, which makes it genuinely plug-and-play.
+The [U-Turn Orbit Plus](https://www.amazon.com/dp/B0CG9YR77K?tag=analogrevivalist-20) is built in Woburn, Massachusetts, and the build quality shows. At around $259, it's a belt-drive deck with a noticeably tighter plinth and better bearing quality than most budget competition. Unlike the entry-level Orbit Basic, the Orbit Plus includes a built-in phono preamp, which makes it genuinely plug-and-play.
 
 Where the Orbit earns its reputation is in the noise floor. Belt-drive decks at this price level typically isolate the motor better than direct-drive designs, and I've found the Orbit particularly quiet. Compared directly with the AT-LP120XUSB on acoustic material - string quartets, fingerpicked guitar, late-night jazz - the Orbit's lower noise floor lets more of the musical texture come through.
 
@@ -52,7 +52,7 @@ The Orbit is not a good deck for DJ use or regular cueing at speed - it's a pure
 
 ## The Fluance RT85: Best Value Cartridge Bundle
 
-The [Fluance RT85](https://www.amazon.com/dp/B07KGL56XJ) ships with an Ortofon 2M Blue - a cartridge that retails for $150-180 on its own. That tells you exactly what Fluance prioritized: they put the budget into the cartridge and cartridge-adjacent components, and trimmed elsewhere. At around $249, it's a compelling package if you know what you're getting.
+The [Fluance RT85](https://www.amazon.com/dp/B07KGL56XJ?tag=analogrevivalist-20) ships with an Ortofon 2M Blue - a cartridge that retails for $150-180 on its own. That tells you exactly what Fluance prioritized: they put the budget into the cartridge and cartridge-adjacent components, and trimmed elsewhere. At around $249, it's a compelling package if you know what you're getting.
 
 The 2M Blue is a significant step up from the AT-VM95E and the OM5e in resolution, particularly on female vocals and acoustic instruments. In my experience, the RT85 sounds better than its price suggests on most material. The acrylic platter is standard on this deck, which other manufacturers charge extra for.
 
@@ -78,7 +78,7 @@ I've written a full walkthrough on [setting tracking force and anti-skate](https
 
 If your receiver doesn't have a phono input - and most modern A/V receivers don't - you need a standalone preamp. At under $300 total for the whole setup, here's where I'd put that $50-80.
 
-The [ART DJ Pre II](https://www.amazon.com/s?k=ART+DJ+Pre+II+phono+preamp) is reliable, widely available used for $30-40, and quiet enough that it won't introduce noise into the signal chain. I've used one on a secondary setup for years and it holds up.
+The [ART DJ Pre II](https://www.amazon.com/s?k=ART+DJ+Pre+II+phono+preamp&tag=analogrevivalist-20) is reliable, widely available used for $30-40, and quiet enough that it won't introduce noise into the signal chain. I've used one on a secondary setup for years and it holds up.
 
 If your budget can stretch slightly, the Schiit Mani at $149 is the preamp I'd genuinely recommend for a longer-term setup. It's the quietest preamp I've owned at anywhere near its price, handles both MM and MC cartridges, and is built to last.
 
