@@ -40,7 +40,7 @@ The Klipsch R-41M is a compact speaker with a horn-loaded tweeter that gives it 
 
 The bass extension is modest - expect usable output down to around 68 Hz - but the dynamics are where this speaker surprises. Jazz trios and live recordings in particular come alive through a clean vintage receiver.
 
-[View the Klipsch R-41M on Amazon](https://www.amazon.com/dp/B07FK9T8Y5)
+[View the Klipsch R-41M on Amazon](https://www.amazon.com/dp/B07FK9T8Y5?tag=analogrevivalist-20)
 
 ### Polk Audio T15
 
@@ -48,7 +48,7 @@ The Polk Audio T15 is one of the most recommended entry-level bookshelf speakers
 
 We have run the T15 on several receivers and found it forgiving of placement and recording quality alike. It is not the most revealing speaker, but that is often a virtue with older recordings or noisier vinyl pressings. Expect smooth highs, reasonable midrange clarity, and bass that reaches down to about 60 Hz in a reasonably sized room.
 
-[View the Polk Audio T15 on Amazon](https://www.amazon.com/dp/B002LQM6YY)
+[View the Polk Audio T15 on Amazon](https://www.amazon.com/dp/B002LQM6YY?tag=analogrevivalist-20)
 
 ### ELAC Debut 2.0 B5.2
 
@@ -56,7 +56,7 @@ The ELAC Debut 2.0 B5.2 is designed by Andrew Jones and represents a significant
 
 When we ran the B5.2 against the R-41M on a classic rock side of a 1978 album, the ELAC produced more body in the lower midrange and better separation between instruments. It is the speaker in this list we would choose for an extended listening session. The caveat: it needs a little more volume on the dial to match the perceived output of the Klipsch.
 
-[View the ELAC Debut 2.0 B5.2 on Amazon](https://www.amazon.com/dp/B073KS4XVL)
+[View the ELAC Debut 2.0 B5.2 on Amazon](https://www.amazon.com/dp/B073KS4XVL?tag=analogrevivalist-20)
 
 ## How to Place Bookshelf Speakers for Best Sound
 
@@ -80,9 +80,9 @@ Keep speaker cable runs under 15 feet where possible with 16-gauge wire. For lon
 
 Three speakers worth putting on your shortlist, all verified available and priced for real-world budgets:
 
-- **Klipsch R-41M** - High-sensitivity horn design, 90 dB, 8 ohm, excellent dynamics: [https://www.amazon.com/dp/B07FK9T8Y5](https://www.amazon.com/dp/B07FK9T8Y5)
-- **Polk Audio T15** - Balanced everyday speaker, 89 dB, 8 ohm, forgiving of placement: [https://www.amazon.com/dp/B002LQM6YY](https://www.amazon.com/dp/B002LQM6YY)
-- **ELAC Debut 2.0 B5.2** - Best bass extension of the three, 6 ohm, excellent midrange detail: [https://www.amazon.com/dp/B073KS4XVL](https://www.amazon.com/dp/B073KS4XVL)
+- **Klipsch R-41M** - High-sensitivity horn design, 90 dB, 8 ohm, excellent dynamics: [https://www.amazon.com/dp/B07FK9T8Y5?tag=analogrevivalist-20](https://www.amazon.com/dp/B07FK9T8Y5?tag=analogrevivalist-20)
+- **Polk Audio T15** - Balanced everyday speaker, 89 dB, 8 ohm, forgiving of placement: [https://www.amazon.com/dp/B002LQM6YY?tag=analogrevivalist-20](https://www.amazon.com/dp/B002LQM6YY?tag=analogrevivalist-20)
+- **ELAC Debut 2.0 B5.2** - Best bass extension of the three, 6 ohm, excellent midrange detail: [https://www.amazon.com/dp/B073KS4XVL?tag=analogrevivalist-20](https://www.amazon.com/dp/B073KS4XVL?tag=analogrevivalist-20)
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
