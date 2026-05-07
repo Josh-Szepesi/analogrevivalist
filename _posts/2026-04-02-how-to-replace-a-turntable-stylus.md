@@ -84,15 +84,15 @@ The cartridges below have widely available replacement styli, straightforward in
 
 **Audio-Technica AT95E Phono Cartridge**
 One of the most popular entry-level cartridges in circulation, the AT95E has replacement styli readily available from Audio-Technica and third-party suppliers. A practical choice if you need to replace both cartridge and stylus at once.
-[View on Amazon](https://www.amazon.com/dp/B0719TQD5H)
+[View on Amazon](https://www.amazon.com/dp/B0719TQD5H?tag=analogrevivalist-20)
 
 **Audio-Technica AT-VM95E Replacement Stylus**
 For those already running an AT-VM95 series cartridge, this elliptical replacement stylus is the most cost-effective way to restore full performance. Drop-in compatible, well-made, and consistently reliable in our testing.
-[View on Amazon](https://www.amazon.com/dp/B00B2HXJDQ)
+[View on Amazon](https://www.amazon.com/dp/B00B2HXJDQ?tag=analogrevivalist-20)
 
 **Ortofon OM10 Cartridge**
 The Ortofon OM series uses a modular stylus design that accepts OM20, OM30, and higher-grade stylus assemblies directly. Buying the OM10 as a base and swapping up to a better stylus profile later is a sensible approach for anyone planning to upgrade incrementally.
-[View on Amazon](https://www.amazon.com/dp/B08LXZL3VX)
+[View on Amazon](https://www.amazon.com/dp/B08LXZL3VX?tag=analogrevivalist-20)
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
