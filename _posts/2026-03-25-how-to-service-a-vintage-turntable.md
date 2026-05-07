@@ -89,9 +89,9 @@ Play a side of something you know well. Speed instability from a worn belt shows
 
 These are the consumable items we reach for when servicing vintage turntables:
 
-- **Audioquest Anti-Static Record Brush** - a carbon fiber brush for platter cleaning and pre-play record care: [view on Amazon](https://www.amazon.com/dp/B00006JUIV)
-- **Replacement turntable drive belt** - search your specific model number to find the correct belt for your deck: [search on Amazon](https://www.amazon.com/s?k=turntable+drive+belt)
-- **Lightweight sewing machine oil** - works well as a main bearing lubricant in most belt-drive turntables: [search on Amazon](https://www.amazon.com/s?k=sewing+machine+oil)
+- **Audioquest Anti-Static Record Brush** - a carbon fiber brush for platter cleaning and pre-play record care: [view on Amazon](https://www.amazon.com/dp/B00006JUIV?tag=analogrevivalist-20)
+- **Replacement turntable drive belt** - search your specific model number to find the correct belt for your deck: [search on Amazon](https://www.amazon.com/s?k=turntable+drive+belt&tag=analogrevivalist-20)
+- **Lightweight sewing machine oil** - works well as a main bearing lubricant in most belt-drive turntables: [search on Amazon](https://www.amazon.com/s?k=sewing+machine+oil&tag=analogrevivalist-20)
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
