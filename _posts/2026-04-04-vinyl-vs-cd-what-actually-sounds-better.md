@@ -120,11 +120,11 @@ If you have a vinyl-focused system, adding a good CD transport and DAC gives you
 
 Getting the most from vinyl requires a quality phono stage that applies accurate RIAA equalization and introduces minimal noise. These are products we have tested and found genuinely useful.
 
-**[Fosi Audio Box X5 Phono Preamp](https://www.amazon.com/dp/B0DLVZF5Y7)** - A compact, well-measuring phono stage for MM and MC cartridges. Accurate RIAA equalization at this price point makes a meaningful difference in how vinyl competes with CD in a direct comparison.
+**[Fosi Audio Box X5 Phono Preamp](https://www.amazon.com/dp/B0DLVZF5Y7?tag=analogrevivalist-20)** - A compact, well-measuring phono stage for MM and MC cartridges. Accurate RIAA equalization at this price point makes a meaningful difference in how vinyl competes with CD in a direct comparison.
 
-**[Pro-Ject Audio Phono Box DC MM/MC Phono Preamp](https://www.amazon.com/dp/B007DB5I60)** - A step up in build quality and noise performance. This is the unit we use for most listening sessions. It has enough gain and loading flexibility to handle a wide range of cartridges without coloring the sound.
+**[Pro-Ject Audio Phono Box DC MM/MC Phono Preamp](https://www.amazon.com/dp/B007DB5I60?tag=analogrevivalist-20)** - A step up in build quality and noise performance. This is the unit we use for most listening sessions. It has enough gain and loading flexibility to handle a wide range of cartridges without coloring the sound.
 
-**[iFi Zen Phono 3 Audiophile MM/MC Turntable Pre-Amplifier](https://www.amazon.com/dp/B0D1RCTXK3)** - iFi's serious-tier entry into the phono stage market. Balanced output option and a very low noise floor make this competitive with units at significantly higher price points.
+**[iFi Zen Phono 3 Audiophile MM/MC Turntable Pre-Amplifier](https://www.amazon.com/dp/B0D1RCTXK3?tag=analogrevivalist-20)** - iFi's serious-tier entry into the phono stage market. Balanced output option and a very low noise floor make this competitive with units at significantly higher price points.
 
 ---
 
