@@ -43,7 +43,7 @@ Use a simple test: connect a set of headphones or a small speaker and sweep the 
 
 ### Scratchy and Intermittent Controls
 
-This is the single most common issue with vintage receivers and also the most misunderstood. Scratchy pots, mode selectors, and input switches almost always respond well to a treatment of a quality contact cleaner like [Caig DeoxIT D5 Contact Cleaner Spray](https://www.amazon.com/dp/B00006LVEU). We've used it on dozens of units and it is consistently the right first step before assuming a deeper problem.
+This is the single most common issue with vintage receivers and also the most misunderstood. Scratchy pots, mode selectors, and input switches almost always respond well to a treatment of a quality contact cleaner like [Caig DeoxIT D5 Contact Cleaner Spray](https://www.amazon.com/dp/B00006LVEU?tag=analogrevivalist-20). We've used it on dozens of units and it is consistently the right first step before assuming a deeper problem.
 
 The process: spray a small amount into the pot or switch, work the control back and forth rapidly 20 to 30 times, let it sit for a few minutes, then repeat. In most cases the scratching stops entirely. If it does not improve after two or three treatments, the control itself may be worn to the point of needing replacement.
 
@@ -91,14 +91,14 @@ Don't assume a vintage receiver that tested well in the field is ready for exten
 
 Let the unit run with a load for a few hours the first day. A non-working speaker or a dummy load is ideal; do not run a vintage receiver at volume without a speaker load connected - this can damage output transistors. Monitor for any unusual smells, which can indicate a failing capacitor or a component running hotter than it should.
 
-An [Amazon Basics Auto-Ranging Digital Multimeter](https://www.amazon.com/dp/B09G9FPHY6) is a useful tool to have at this stage. Measuring DC offset at the speaker terminals (should be close to zero millivolts) tells you whether the protection circuit is working correctly and whether the output stage is in balance. Most receivers with a serviceable output stage will read under 20mV. Anything over 50mV suggests the bias should be adjusted before regular use.
+An [Amazon Basics Auto-Ranging Digital Multimeter](https://www.amazon.com/dp/B09G9FPHY6?tag=analogrevivalist-20) is a useful tool to have at this stage. Measuring DC offset at the speaker terminals (should be close to zero millivolts) tells you whether the protection circuit is working correctly and whether the output stage is in balance. Most receivers with a serviceable output stage will read under 20mV. Anything over 50mV suggests the bias should be adjusted before regular use.
 
 If you're new to vintage receivers, our guide on [setting up a vintage receiver](/2026/03/11/setting-up-vintage-receiver/) walks through the initial hookup and configuration in more detail.
 
 ## Recommended Products
 
-- **[Caig DeoxIT D5 Contact Cleaner Spray](https://www.amazon.com/dp/B00006LVEU)** - The standard product for cleaning vintage audio controls. Works on pots, switches, and relay contacts.
-- **[Amazon Basics Auto-Ranging Digital Multimeter](https://www.amazon.com/dp/B09G9FPHY6)** - A reliable tool for checking DC offset, measuring resistance, and verifying connections before and after servicing.
+- **[Caig DeoxIT D5 Contact Cleaner Spray](https://www.amazon.com/dp/B00006LVEU?tag=analogrevivalist-20)** - The standard product for cleaning vintage audio controls. Works on pots, switches, and relay contacts.
+- **[Amazon Basics Auto-Ranging Digital Multimeter](https://www.amazon.com/dp/B09G9FPHY6?tag=analogrevivalist-20)** - A reliable tool for checking DC offset, measuring resistance, and verifying connections before and after servicing.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
