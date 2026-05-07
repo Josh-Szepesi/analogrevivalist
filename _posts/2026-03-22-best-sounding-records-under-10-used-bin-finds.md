@@ -81,7 +81,7 @@ Budget $3-$5. The bar for condition on this title is worth raising slightly high
 
 Every used record should be cleaned before its first play. Pressing compound, fingerprints, and residue from old inner sleeves all sit in the groove and transfer directly to your stylus.
 
-A [Boundless Audio Vinyl Record Cleaning Brush](https://www.amazon.com/dp/B07DJFZMLG) handles most dry cleaning needs before and after each play. For records pulled from used bins - which may have sat in cardboard sleeves for decades - a wet clean with a [Big Fudge 4-in-1 Vinyl Record Cleaning Kit](https://www.amazon.com/dp/B07DVSTBXM) removes embedded contamination that a dry brush cannot reach. After cleaning, replace the original paper inner sleeve with a fresh [Mobile Fidelity LP Inner Sleeve](https://www.amazon.com/dp/B07Q1J1ZXL) - the paper and cardboard sleeves used in original pressings shed particles that recontaminate the groove over time.
+A [Boundless Audio Vinyl Record Cleaning Brush](https://www.amazon.com/dp/B07DJFZMLG?tag=analogrevivalist-20) handles most dry cleaning needs before and after each play. For records pulled from used bins - which may have sat in cardboard sleeves for decades - a wet clean with a [Big Fudge 4-in-1 Vinyl Record Cleaning Kit](https://www.amazon.com/dp/B07DVSTBXM?tag=analogrevivalist-20) removes embedded contamination that a dry brush cannot reach. After cleaning, replace the original paper inner sleeve with a fresh [Mobile Fidelity LP Inner Sleeve](https://www.amazon.com/dp/B07Q1J1ZXL?tag=analogrevivalist-20) - the paper and cardboard sleeves used in original pressings shed particles that recontaminate the groove over time.
 
 For a complete walkthrough of wet and dry cleaning methods, see our guide on [how to clean vinyl records](/how-to-clean-vinyl-records).
 
@@ -97,9 +97,9 @@ You do not need to become an expert in matrix codes to dig productively. Start b
 
 ## Recommended Products
 
-- [Boundless Audio Vinyl Record Cleaning Brush](https://www.amazon.com/dp/B07DJFZMLG) - Carbon fiber anti-static brush for routine dry cleaning before and after every play.
-- [Big Fudge 4-in-1 Vinyl Record Cleaning Kit](https://www.amazon.com/dp/B07DVSTBXM) - Wet cleaning solution, brush, drying cloth, and velvet applicator. A practical first kit for cleaning used bin finds.
-- [Mobile Fidelity LP Inner Sleeves](https://www.amazon.com/dp/B07Q1J1ZXL) - Rice paper and polyethylene lined sleeves that protect cleaned records without shedding particles. Worth replacing old paper sleeves on anything you plan to keep.
+- [Boundless Audio Vinyl Record Cleaning Brush](https://www.amazon.com/dp/B07DJFZMLG?tag=analogrevivalist-20) - Carbon fiber anti-static brush for routine dry cleaning before and after every play.
+- [Big Fudge 4-in-1 Vinyl Record Cleaning Kit](https://www.amazon.com/dp/B07DVSTBXM?tag=analogrevivalist-20) - Wet cleaning solution, brush, drying cloth, and velvet applicator. A practical first kit for cleaning used bin finds.
+- [Mobile Fidelity LP Inner Sleeves](https://www.amazon.com/dp/B07Q1J1ZXL?tag=analogrevivalist-20) - Rice paper and polyethylene lined sleeves that protect cleaned records without shedding particles. Worth replacing old paper sleeves on anything you plan to keep.
 
 ---
 
