@@ -83,7 +83,7 @@ Ready to start with a turntable? Our [Best Budget Turntables for Beginners guide
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[Vinyl Record Storage Crate](https://www.amazon.com/s?k=vinyl)**
+- **[Vinyl Record Storage Crate](https://www.amazon.com/s?k=vinyl&tag=analogrevivalist-20)**
 
 
 <div class="author-bio">
