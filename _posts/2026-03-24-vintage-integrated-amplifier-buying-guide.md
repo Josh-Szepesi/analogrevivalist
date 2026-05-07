@@ -98,11 +98,11 @@ What matters more than wattage is the quality of the power supply and the output
 
 ## Recommended Products
 
-If you want the sonic character of vintage design without the search-and-service process, the **[Yamaha A-S301 Integrated Amplifier](https://www.amazon.com/dp/B00I9W78K8?tag=mbbeekeeping-20)** is a modern option built on classic Yamaha circuit topology. It includes a phono stage, a headphone output, and the kind of build quality that has largely disappeared from budget new gear.
+If you want the sonic character of vintage design without the search-and-service process, the **[Yamaha A-S301 Integrated Amplifier](https://www.amazon.com/dp/B00I9W78K8?tag=analogrevivalist-20)** is a modern option built on classic Yamaha circuit topology. It includes a phono stage, a headphone output, and the kind of build quality that has largely disappeared from budget new gear.
 
-If your integrated amplifier lacks a phono stage - which is common on units from the 1980s onward - the **[Pro-Ject Phono Box S2](https://www.amazon.com/dp/B01LZMNWAK?tag=mbbeekeeping-20)** is a well-regarded external phono preamp that works with both moving-magnet and moving-coil cartridges. It is compact, quiet, and offers loading adjustments without requiring soldering.
+If your integrated amplifier lacks a phono stage - which is common on units from the 1980s onward - the **[Pro-Ject Phono Box S2](https://www.amazon.com/dp/B01LZMNWAK?tag=analogrevivalist-20)** is a well-regarded external phono preamp that works with both moving-magnet and moving-coil cartridges. It is compact, quiet, and offers loading adjustments without requiring soldering.
 
-For speaker connections, **[AudioQuest Tower Speaker Cable](https://www.amazon.com/dp/B001CTSF3G?tag=mbbeekeeping-20)** is a reliable choice that terminates cleanly and does not break the bank. Proper termination makes more difference than exotic cable materials.
+For speaker connections, **[AudioQuest Tower Speaker Cable](https://www.amazon.com/dp/B001CTSF3G?tag=analogrevivalist-20)** is a reliable choice that terminates cleanly and does not break the bank. Proper termination makes more difference than exotic cable materials.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
