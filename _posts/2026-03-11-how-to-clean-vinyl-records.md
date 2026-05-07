@@ -72,9 +72,9 @@ Clean records still need a clean stylus. Check our [How to Clean Your Turntable 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Record Cleaning Machine](https://www.amazon.com/s?k=record+cleaning+machine+vinyl)**
-- **[Anti-Static Record Brush](https://www.amazon.com/s?k=anti+static+record+cleaning+brush)**
-- **[Vinyl Cleaning Kit Fluid](https://www.amazon.com/s?k=vinyl+record+cleaning+kit+fluid)**
+- **[Record Cleaning Machine](https://www.amazon.com/s?k=record+cleaning+machine+vinyl&tag=analogrevivalist-20)**
+- **[Anti-Static Record Brush](https://www.amazon.com/s?k=anti+static+record+cleaning+brush&tag=analogrevivalist-20)**
+- **[Vinyl Cleaning Kit Fluid](https://www.amazon.com/s?k=vinyl+record+cleaning+kit+fluid&tag=analogrevivalist-20)**
 
 
 <div class="author-bio">
