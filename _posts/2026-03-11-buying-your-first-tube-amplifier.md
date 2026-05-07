@@ -70,9 +70,9 @@ If you're setting up a full system, you'll also need a phono preamp or receiver.
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Phono Preamp MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc)**
-- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo)**
-- **[Schiit Mani Phono Preamp](https://www.amazon.com/s?k=schiit+mani+phono+preamp)**
+- **[Phono Preamp MM MC](https://www.amazon.com/s?k=phono+preamp+turntable+mm+mc&tag=analogrevivalist-20)**
+- **[Integrated Amplifier Stereo](https://www.amazon.com/s?k=integrated+amplifier+stereo&tag=analogrevivalist-20)**
+- **[Schiit Mani Phono Preamp](https://www.amazon.com/s?k=schiit+mani+phono+preamp&tag=analogrevivalist-20)**
 
 
 <div class="author-bio">
