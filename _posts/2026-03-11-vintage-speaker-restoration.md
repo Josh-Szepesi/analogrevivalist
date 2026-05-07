@@ -68,9 +68,9 @@ Restored speakers pair best with a restored amp. See our [Setting Up a Vintage R
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Bookshelf Speakers Pair](https://www.amazon.com/s?k=bookshelf+speakers+pair+audiophile)**
-- **[Speaker Wire OFC](https://www.amazon.com/s?k=speaker+wire+oxygen+free+copper)**
-- **[Speaker Stands Adjustable](https://www.amazon.com/s?k=speaker+stands+bookshelf+adjustable)**
+- **[Bookshelf Speakers Pair](https://www.amazon.com/s?k=bookshelf+speakers+pair+audiophile&tag=analogrevivalist-20)**
+- **[Speaker Wire OFC](https://www.amazon.com/s?k=speaker+wire+oxygen+free+copper&tag=analogrevivalist-20)**
+- **[Speaker Stands Adjustable](https://www.amazon.com/s?k=speaker+stands+bookshelf+adjustable&tag=analogrevivalist-20)**
 
 
 <div class="author-bio">
