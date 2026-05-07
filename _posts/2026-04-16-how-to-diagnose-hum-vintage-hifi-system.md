@@ -47,9 +47,9 @@ The clearest sign of a ground loop is that the hum is present regardless of whic
 **Common fixes:**
 
 - Plug all components into the same power strip or conditioner so they share a single ground reference. This is often enough on its own.
-- Add a ground loop isolator on the RCA interconnects between the problem component and the receiver. The [AV Link Ground Loop Isolator](https://www.amazon.com/dp/B000NVWB9O) is inexpensive and handles most line-level ground loops without any audible degradation in our testing.
+- Add a ground loop isolator on the RCA interconnects between the problem component and the receiver. The [AV Link Ground Loop Isolator](https://www.amazon.com/dp/B000NVWB9O?tag=analogrevivalist-20) is inexpensive and handles most line-level ground loops without any audible degradation in our testing.
 - On a turntable, ensure the dedicated ground wire (the thin wire separate from the RCA cables) is connected firmly to the grounding post on the phono input of the receiver or preamp. A loose or missing ground wire is one of the most common causes of turntable hum.
-- Replace low-quality RCA interconnects with cables that use double-shielded construction and ferrite cores. Shielded cables like the [Wekuant Audiophile RCA Cable with Ferrite Cores](https://www.amazon.com/dp/B0C771LKNB) reduce interference pickup along the cable run, which can matter if you have long cable runs near power cables.
+- Replace low-quality RCA interconnects with cables that use double-shielded construction and ferrite cores. Shielded cables like the [Wekuant Audiophile RCA Cable with Ferrite Cores](https://www.amazon.com/dp/B0C771LKNB?tag=analogrevivalist-20) reduce interference pickup along the cable run, which can matter if you have long cable runs near power cables.
 
 ---
 
@@ -91,7 +91,7 @@ Work through these steps in order. Each one narrows down the cause before you mo
 
 **Step 3: Reconnect one source at a time.** Add each component back one at a time, starting with the turntable, then a CD player, then a streaming device. Listen after each addition. The connection that brings the hum back is your culprit component or cable.
 
-**Step 4: Swap cables.** When you have identified the connection that introduces hum, try a different RCA cable. A broken shield or a poorly terminated connector can cause hum that looks like a component problem. Quality shielded cables with ferrite chokes, such as snap-on suppressors from a kit like the [Roctee EMI RFI Ferrite Choke Snap-On Noise Suppressor](https://www.amazon.com/dp/B07X8GN6C7), can also be added to existing cables as a first diagnostic step.
+**Step 4: Swap cables.** When you have identified the connection that introduces hum, try a different RCA cable. A broken shield or a poorly terminated connector can cause hum that looks like a component problem. Quality shielded cables with ferrite chokes, such as snap-on suppressors from a kit like the [Roctee EMI RFI Ferrite Choke Snap-On Noise Suppressor](https://www.amazon.com/dp/B07X8GN6C7?tag=analogrevivalist-20), can also be added to existing cables as a first diagnostic step.
 
 **Step 5: Check all ground connections.** Verify the turntable ground wire is connected and making good contact. Check that interconnects are fully seated. Inspect any chassis screws used as ground points: corrosion at these points is common on vintage gear.
 
