@@ -12,13 +12,13 @@ The hunt for the perfect vintage receiver usually ends in a three way standoff b
 Marantz receivers from the 22xx series are legendary for their "warm" and "tubey" sound. They excel at creating a wide soundstage that makes acoustic recordings feel alive. When paired with a [proper turntable setup](/blog/turntable-setup-guide), a Marantz 2270 or 2245 provides a lush midrange that is difficult to replicate with modern gear.
 
 ## Pioneer: The Engineering Standard
-Pioneer, particularly the SX-series, is often cited for its "straight-wire-with-gain" philosophy. These units offer a bright, punchy, and detailed sound that works exceptionally well for rock and electronic music. To get the most out of their high-current output, we recommend using [16-gauge oxygen-free speaker wire](https://www.amazon.com/AmazonBasics-16-Gauge-Speaker-Wire-Feet/dp/B006LW0WDQ) to maintain signal integrity.
+Pioneer, particularly the SX-series, is often cited for its "straight-wire-with-gain" philosophy. These units offer a bright, punchy, and detailed sound that works exceptionally well for rock and electronic music. To get the most out of their high-current output, we recommend using [16-gauge oxygen-free speaker wire](https://www.amazon.com/AmazonBasics-16-Gauge-Speaker-Wire-Feet/dp/B006LW0WDQ?tag=analogrevivalist-20) to maintain signal integrity.
 
 ## Sansui: The Audiophile’s Choice
 Sansui is the dark horse that many purists eventually gravitate toward. Known for their "black face" G-series and AU-series amplifiers, Sansui gear offers a balanced, authoritative sound that bridges the gap between Marantz's warmth and Pioneer's clarity. They are particularly rewarding when matching them with [restored vintage speakers](/blog/restoring-vintage-speakers) from the same era.
 
 ## Essential Maintenance and Accessories
-Owning vintage gear requires upkeep. To keep those scratchy potentiometers quiet, a can of [DeoxIT D5 Contact Cleaner](https://www.amazon.com/Hosa-D5S-6-DeoxIT-Contact-Cleaner/dp/B00006LVEU) is an absolute necessity. Additionally, keeping your media clean with a [professional record cleaning kit](https://www.amazon.com/Vinyl-Record-Cleaning-Kit-Complete/dp/B07HLP9Z98) ensures you aren't sending dust through your high-fidelity signal path. For deep dives into specific circuit diagrams, the community at [AudioKarma](https://audiokarma.org/) is an invaluable external resource.
+Owning vintage gear requires upkeep. To keep those scratchy potentiometers quiet, a can of [DeoxIT D5 Contact Cleaner](https://www.amazon.com/Hosa-D5S-6-DeoxIT-Contact-Cleaner/dp/B00006LVEU?tag=analogrevivalist-20) is an absolute necessity. Additionally, keeping your media clean with a [professional record cleaning kit](https://www.amazon.com/Vinyl-Record-Cleaning-Kit-Complete/dp/B07HLP9Z98?tag=analogrevivalist-20) ensures you aren't sending dust through your high-fidelity signal path. For deep dives into specific circuit diagrams, the community at [AudioKarma](https://audiokarma.org/) is an invaluable external resource.
 
 ## Frequently Asked Questions
 **Which brand is best for rock music?**
