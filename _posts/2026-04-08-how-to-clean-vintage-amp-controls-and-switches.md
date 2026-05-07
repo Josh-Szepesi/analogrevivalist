@@ -41,9 +41,9 @@ Here is what you need and what each item is for:
 | Needle-nosed pliers | Removing stubborn knobs with set screws | Wrap the jaws with tape |
 | Small Phillips and flathead screwdrivers | Opening the chassis | Match the driver to the screw head exactly |
 
-**The one product you must have is a quality contact cleaner formulated for carbon elements.** [DeoxIT D100L-25C Contact Cleaner](https://www.amazon.com/dp/B0F63STKZM) is the standard choice among vintage audio restorers. It includes a precision needle applicator that lets you place a small drop directly into the pot body without flooding the surrounding board.
+**The one product you must have is a quality contact cleaner formulated for carbon elements.** [DeoxIT D100L-25C Contact Cleaner](https://www.amazon.com/dp/B0F63STKZM?tag=analogrevivalist-20) is the standard choice among vintage audio restorers. It includes a precision needle applicator that lets you place a small drop directly into the pot body without flooding the surrounding board.
 
-For IPA, use a high-purity 99.9% formulation. [WoldoClean Isopropyl Alcohol 99.9%](https://www.amazon.com/dp/B07D4N472Q) comes in a large bottle, which is practical if you are cleaning multiple pieces of gear. For brushes, a multi-piece set like the [CRAFNEW Small Cleaning Brush Set](https://www.amazon.com/dp/B0C9XQDT9B) gives you enough variety to reach different component profiles without committing to a single brush diameter.
+For IPA, use a high-purity 99.9% formulation. [WoldoClean Isopropyl Alcohol 99.9%](https://www.amazon.com/dp/B07D4N472Q?tag=analogrevivalist-20) comes in a large bottle, which is practical if you are cleaning multiple pieces of gear. For brushes, a multi-piece set like the [CRAFNEW Small Cleaning Brush Set](https://www.amazon.com/dp/B0C9XQDT9B?tag=analogrevivalist-20) gives you enough variety to reach different component profiles without committing to a single brush diameter.
 
 Do not use WD-40. Do not use brake cleaner. Do not use generic electronics spray from a hardware store. These products are not formulated for carbon resistive elements and will accelerate the failure they are supposed to prevent.
 
