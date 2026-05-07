@@ -59,9 +59,9 @@ Whichever cartridge you choose, tracking force setup is critical. See our [Setti
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Audio-Technica VM95E](https://www.amazon.com/s?k=audio+technica+vm95e+cartridge)**
-- **[Ortofon 2M Red](https://www.amazon.com/s?k=ortofon+2m+red+cartridge)**
-- **[Stylus Replacement Needle](https://www.amazon.com/s?k=turntable+stylus+replacement+needle)**
+- **[Audio-Technica VM95E](https://www.amazon.com/s?k=audio+technica+vm95e+cartridge&tag=analogrevivalist-20)**
+- **[Ortofon 2M Red](https://www.amazon.com/s?k=ortofon+2m+red+cartridge&tag=analogrevivalist-20)**
+- **[Stylus Replacement Needle](https://www.amazon.com/s?k=turntable+stylus+replacement+needle&tag=analogrevivalist-20)**
 
 
 <div class="author-bio">
