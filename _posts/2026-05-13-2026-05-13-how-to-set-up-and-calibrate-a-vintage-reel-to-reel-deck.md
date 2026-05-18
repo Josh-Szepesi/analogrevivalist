@@ -88,7 +88,4 @@ Bookmark this guide for your next bench session and ensure your calibration tape
 - [Digital Vs Analog Source Switching Integrating A Streamer In](/2026-04-29-2026-04-29-digital-vs-analog-source-switching-integrating-a-streamer-in)
 - [How To Build A Budget Hifi System Entirely From Used Gear](/2026-05-04-2026-05-04-how-to-build-a-budget-hifi-system-entirely-from-used-gear)
 
-<div class="author-bio">
-  <p><strong>About the Author</strong></p>
-  <p>The Analog Revivalist team writes about vintage audio restoration, from sourcing components to final listening tests. Our guides are rooted in practical bench experience - we don't recommend what we haven't taken apart ourselves.</p>
-</div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The Analog Revivalist team researches vintage audio restoration, drawing on service manual documentation, technician community knowledge, and comparative equipment reviews. Our guides focus on what the evidence supports - not just received wisdom.</p></div>
