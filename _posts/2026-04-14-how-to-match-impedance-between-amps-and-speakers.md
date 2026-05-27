@@ -94,7 +94,7 @@ Match the tap to your speaker's nominal impedance. If your speaker is 6 ohms nom
 **Step 5: If running multiple speaker pairs, calculate parallel impedance.**
 Two identical speakers in parallel: divide nominal impedance by 2. Two 8 ohm pairs = 4 ohm load. Three 8 ohm pairs = 2.67 ohm load, which is below the safe range for most vintage receivers. If you need to run multiple pairs, use a speaker selector with built-in impedance protection (discussed below) rather than wiring directly to the amplifier's binding posts.
 
-For more on running multiple speakers and bridging configurations, our guide on [how to biamp speakers with a vintage receiver](/2026-04-06-how-to-biamp-speakers-with-a-vintage-receiver) covers the wiring logic in detail.
+For more on running multiple speakers and bridging configurations, our guide on [how to biamp speakers with a vintage receiver](/2026/04/06/how-to-biamp-speakers-with-a-vintage-receiver/) covers the wiring logic in detail.
 
 ## Impedance Matching Solutions for Difficult Combinations
 
@@ -116,7 +116,7 @@ Adding a resistor in series with a low-impedance speaker raises the total load i
 
 **Replacing output transistors for a wider operating range**
 
-For vintage receivers where the original transistors are marginal for 4 ohm loads, upgrading to more modern, higher-power complements rated for lower collector-emitter saturation voltage can meaningfully widen the safe load range. This is a bench-level repair. If you're rebuilding a receiver and know you'll be driving 4 ohm speakers, specifying output transistors with appropriate power dissipation ratings upfront is the cleanest path. See our guide on [vintage receiver buying and evaluation](/2026-03-30-vintage-receiver-guide-used-market) for context on output stage quality across different makes.
+For vintage receivers where the original transistors are marginal for 4 ohm loads, upgrading to more modern, higher-power complements rated for lower collector-emitter saturation voltage can meaningfully widen the safe load range. This is a bench-level repair. If you're rebuilding a receiver and know you'll be driving 4 ohm speakers, specifying output transistors with appropriate power dissipation ratings upfront is the cleanest path. See our guide on [vintage receiver buying and evaluation](/2026/03/30/vintage-receiver-guide-used-market/) for context on output stage quality across different makes.
 
 ## Common Mistakes and How to Avoid Them
 
@@ -154,7 +154,7 @@ Touch the heatsink (not internal components) after 20-30 minutes of moderate-vol
 
 Impedance matching is not about perfect numbers. It is about staying within the safe operating range of your amp's output stage and selecting the right transformer tap if you're running tubes. For most vintage solid-state setups, the practical rule is: confirm your speakers' nominal impedance is at or above the amp's rated minimum, do not run multiple pairs in parallel without accounting for the combined load, and do not ignore sustained heat as a warning sign.
 
-If you're building a system from scratch, see our guide on [vintage receivers and what to look for on the used market](/2026-03-30-vintage-receiver-guide-used-market) for more on how output stage design affects pairing flexibility.
+If you're building a system from scratch, see our guide on [vintage receivers and what to look for on the used market](/2026/03/30/vintage-receiver-guide-used-market/) for more on how output stage design affects pairing flexibility.
 
 **Bookmark this page** as a reference the next time you're swapping speakers or evaluating a new-to-you receiver. It covers the key scenarios you'll run into in a vintage HiFi context.
 
