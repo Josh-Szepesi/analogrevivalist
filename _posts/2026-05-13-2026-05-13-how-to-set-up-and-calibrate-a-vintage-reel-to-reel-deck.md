@@ -85,7 +85,7 @@ Setting up and calibrating a vintage reel-to-reel deck is a demanding process th
 Bookmark this guide for your next bench session and ensure your calibration tapes are stored in a cool, dry place away from magnetic fields.
 
 ### Related reading
-- [Digital Vs Analog Source Switching Integrating A Streamer In](/2026-04-29-2026-04-29-digital-vs-analog-source-switching-integrating-a-streamer-in)
-- [How To Build A Budget Hifi System Entirely From Used Gear](/2026-05-04-2026-05-04-how-to-build-a-budget-hifi-system-entirely-from-used-gear)
+- [Digital Vs Analog Source Switching Integrating A Streamer In](/2026/04/29/2026-04-29-digital-vs-analog-source-switching-integrating-a-streamer-in/)
+- [How To Build A Budget Hifi System Entirely From Used Gear](/2026/05/04/2026-05-04-how-to-build-a-budget-hifi-system-entirely-from-used-gear/)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The Analog Revivalist team researches vintage audio restoration, drawing on service manual documentation, technician community knowledge, and comparative equipment reviews. Our guides focus on what the evidence supports - not just received wisdom.</p></div>
