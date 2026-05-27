@@ -131,7 +131,7 @@ Yes. A cassette deck takes a line-level input, the same level as a CD player or 
 
 Getting into cassette revival does not require a large investment or an obsession with gear. Find a working three-head deck from the late 1980s, spend an hour cleaning and inspecting it, stock up on good blank Type I and Type II tape, and start recording. The format rewards attention: a properly biased recording on a well-maintained deck through a good system sounds genuinely impressive.
 
-If you are also setting up a turntable to record from, our guide to [how to replace a turntable stylus](/2026-04-02-how-to-replace-a-turntable-stylus) covers keeping your source end in shape. For the full system context, the [vintage receiver guide](/2026-03-30-vintage-receiver-guide-used-market) walks through what to look for in the amplification stage that will sit between your sources and your tape deck.
+If you are also setting up a turntable to record from, our guide to [how to replace a turntable stylus](/2026/04/02/how-to-replace-a-turntable-stylus/) covers keeping your source end in shape. For the full system context, the [vintage receiver guide](/2026/03/30/vintage-receiver-guide-used-market/) walks through what to look for in the amplification stage that will sit between your sources and your tape deck.
 
 Bookmark this guide for reference when you are evaluating a deck or dialing in a recording session. The learning curve is real but short, and the results are worth it.
 
