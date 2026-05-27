@@ -75,13 +75,13 @@ The tonearm bearings and pivot points accumulate dust and dried lubricant over d
 
 Wipe the headshell and cartridge body with a dry lint-free cloth. Check that the headshell connector pins are clean and making good contact. Dull or tarnished pins can be very gently cleaned with a dry cotton swab.
 
-For stylus care specifically, our guide on [how to clean a turntable stylus](/2026-03-11-how-to-clean-turntable-stylus) walks through safe wet and dry cleaning methods in detail.
+For stylus care specifically, our guide on [how to clean a turntable stylus](/2026/03/11/how-to-clean-turntable-stylus/) walks through safe wet and dry cleaning methods in detail.
 
 ## Reassembly and Testing
 
 Re-seat the sub-platter, confirm the drive belt is still correctly positioned, then lower the platter back onto the spindle. Replace the platter mat. Plug the turntable back in and power it on. Watch the platter come up to speed - it should reach 33 RPM smoothly and hold speed without drift.
 
-After confirming platter speed is stable, reinstall the cartridge and headshell if you removed them. Before playing a record, verify your tracking force and anti-skate settings are correct. If you are not sure what those should be, our guide on [setting tracking force and anti-skate on a vintage turntable](/2026-03-11-setting-tracking-force-anti-skate) covers the full process.
+After confirming platter speed is stable, reinstall the cartridge and headshell if you removed them. Before playing a record, verify your tracking force and anti-skate settings are correct. If you are not sure what those should be, our guide on [setting tracking force and anti-skate on a vintage turntable](/2026/03/11/setting-tracking-force-anti-skate/) covers the full process.
 
 Play a side of something you know well. Speed instability from a worn belt shows up as wavering on sustained piano or vocal notes. A properly serviced deck should sound clean and stable from the first track.
 
