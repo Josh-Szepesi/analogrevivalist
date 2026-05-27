@@ -62,7 +62,7 @@ Many of us love the "warmth" and aesthetic of vintage gear, such as a Marantz 22
 
 When you use an external preamp like the [Schiit Mani 2 Phono Preamp](https://www.amazon.com/dp/B09S5H9MP6), you should not plug it into the "Phono" input of your vintage receiver. This would result in double-amplification, causing massive distortion and potentially damaging your speakers. Instead, plug the output of your phono stage into an "Aux," "Tape," or "Tuner" input. These are line-level inputs that bypass the receiver's internal phono equalization circuit.
 
-In my experience, even if you are using a Moving Magnet cartridge, a modern external phono stage often provides a lower noise floor and better resolution than the built-in stage of a vintage receiver. This is because modern semi-conductors and circuit layouts are significantly quieter than the components available in the 1970s. If you find that your vintage system has a persistent "hum" that you cannot get rid of, it might be time to bypass the internal stage entirely. For more on this, see our guide on [how to diagnose hum vintage hifi system](/2026-04-16-how-to-diagnose-hum-vintage-hifi-system). Using an external unit also gives you the flexibility to adjust gain and loading, which most vintage receivers simply do not offer.
+In my experience, even if you are using a Moving Magnet cartridge, a modern external phono stage often provides a lower noise floor and better resolution than the built-in stage of a vintage receiver. This is because modern semi-conductors and circuit layouts are significantly quieter than the components available in the 1970s. If you find that your vintage system has a persistent "hum" that you cannot get rid of, it might be time to bypass the internal stage entirely. For more on this, see our guide on [how to diagnose hum vintage hifi system](/2026/04/16/how-to-diagnose-hum-vintage-hifi-system/). Using an external unit also gives you the flexibility to adjust gain and loading, which most vintage receivers simply do not offer.
 
 ## Common Mistakes and Troubleshooting
 
@@ -70,7 +70,7 @@ One of the most common mistakes I see is "Gain Chasing." This is the habit of se
 
 Another frequent error is ignoring the ground wire. Every turntable should have a dedicated ground wire that connects to the ground post on your phono stage. If you are using an external preamp and then connecting that to a vintage receiver, you might encounter a "ground loop." This is a low frequency hum that persists even when the music is not playing. Sometimes, grounding the turntable to the phono stage is enough. Other times, you may need to run a secondary ground wire from the phono stage to the chassis of your vintage amplifier.
 
-Lastly, do not assume that "more expensive" loading settings are better. There is a tendency in the HiFi hobby to think that exotic settings or "custom" loading plugs are a silver bullet. In reality, the best setting is the one that produces a flat frequency response in your specific room with your specific speakers. If you have a room that is "bright" (lots of glass and hardwood floors), you might actually prefer a slightly lower resistive load to take the edge off the sound. Conversely, if your room is heavily damped with carpets and curtains, a higher resistance might help the music "cut through" the space. You can read more about this in our article on [speaker placement room acoustics vinyl listening](/2026-04-18-speaker-placement-room-acoustics-vinyl-listening).
+Lastly, do not assume that "more expensive" loading settings are better. There is a tendency in the HiFi hobby to think that exotic settings or "custom" loading plugs are a silver bullet. In reality, the best setting is the one that produces a flat frequency response in your specific room with your specific speakers. If you have a room that is "bright" (lots of glass and hardwood floors), you might actually prefer a slightly lower resistive load to take the edge off the sound. Conversely, if your room is heavily damped with carpets and curtains, a higher resistance might help the music "cut through" the space. You can read more about this in our article on [speaker placement room acoustics vinyl listening](/2026/04/18/speaker-placement-room-acoustics-vinyl-listening/).
 
 ## FAQ
 
@@ -90,8 +90,8 @@ Understanding phono stage gain and loading is the key to transitioning from a ca
 Check your cartridge manual today and verify that your phono stage dip switches are set correctly for your specific model.
 
 ### Related Reading
-- [How To Diagnose Hum Vintage Hifi System](/2026-04-16-how-to-diagnose-hum-vintage-hifi-system)
-- [How To Recap A Vintage Amplifier Or Receiver](/2026-04-20-how-to-recap-a-vintage-amplifier-or-receiver)
+- [How To Diagnose Hum Vintage Hifi System](/2026/04/16/how-to-diagnose-hum-vintage-hifi-system/)
+- [How To Recap A Vintage Amplifier Or Receiver](/2026/04/20/how-to-recap-a-vintage-amplifier-or-receiver/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
