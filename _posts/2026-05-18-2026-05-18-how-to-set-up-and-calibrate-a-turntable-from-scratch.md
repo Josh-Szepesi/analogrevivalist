@@ -47,7 +47,7 @@ After the basic alignment is complete, the advanced user must look at Vertical T
 
 Azimuth refers to the horizontal balance of the cartridge when viewed from the front. The stylus should sit at a perfectly 90-degree angle to the record surface. If the cartridge is tilted to the left or right, the crosstalk between channels will increase, ruining the stereo image. You can check this by placing a small mirror on the platter and lowering the stylus onto it. The reflection should form a perfectly straight line with the actual stylus. If it is tilted, you'll need to loosen the screw at the base of the headshell (on "S" or "J" shaped arms) and rotate it until it is level.
 
-These adjustments are particularly important when using advanced stylus shapes like [MicroLine or Shibata](https://www.audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-are-the-differences-between-stylus-shapes/). These needles have a very long, narrow contact patch. While they extract more detail than a standard elliptical stylus, they are far less forgiving of poor alignment. A slight error in VTA or Azimuth with a high-end stylus will result in significantly more noise and distortion than it would with a cheaper conical tip. For more information on how these mechanical factors interact with your electronics, see our guide on [Understanding Phono Stage Gain And Loading Settings](/2026-05-08-2026-05-08-understanding-phono-stage-gain-and-loading-settings).
+These adjustments are particularly important when using advanced stylus shapes like [MicroLine or Shibata](https://www.audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-are-the-differences-between-stylus-shapes/). These needles have a very long, narrow contact patch. While they extract more detail than a standard elliptical stylus, they are far less forgiving of poor alignment. A slight error in VTA or Azimuth with a high-end stylus will result in significantly more noise and distortion than it would with a cheaper conical tip. For more information on how these mechanical factors interact with your electronics, see our guide on [Understanding Phono Stage Gain And Loading Settings](/2026/05/08/2026-05-08-understanding-phono-stage-gain-and-loading-settings/).
 
 ## Common Calibration Mistakes to Avoid
 
@@ -55,7 +55,7 @@ One of the most frequent mistakes in turntable setup is ignoring the "parallax e
 
 Another common mistake is setting the tracking force without removing the stylus guard. Stylus guards have weight, and if you zero the arm with the guard on and then remove it to play, your tracking force will be lighter than intended. Always perform your measurements in the exact state the arm will be in during playback. Furthermore, do not assume that a "new" vintage turntable is ready to go. If you pick up a used deck, the previous owner may have installed a cartridge that is a poor compliance match for the tonearm. A heavy tonearm requires a low-compliance cartridge, while a light, low-mass arm (like those found on Dual or SME units) requires a high-compliance cartridge.
 
-Finally, avoid the temptation to "set it and forget it" if you change your platter mat. If you switch from a thin felt mat to a thick rubber or cork mat, you have changed the VTA. You must re-level the arm or you will change the rake angle of the stylus in the groove. Similarly, if you add a heavy record weight like the [Viborg LP628B Record Weight Stabilizer, Turntable Level and Strobe Scale All-in-one](https://www.amazon.com/dp/B017EX6FTA?tag=analogrevivalist-20), you should re-verify your VTF. The added weight can slightly compress the suspension of some turntables, affecting the geometry. For more on managing external factors that affect your sound, read about [Turntable Isolation And Vibration Control On A Budget](/2026-05-06-2026-05-06-turntable-isolation-and-vibration-control-on-a-budget).
+Finally, avoid the temptation to "set it and forget it" if you change your platter mat. If you switch from a thin felt mat to a thick rubber or cork mat, you have changed the VTA. You must re-level the arm or you will change the rake angle of the stylus in the groove. Similarly, if you add a heavy record weight like the [Viborg LP628B Record Weight Stabilizer, Turntable Level and Strobe Scale All-in-one](https://www.amazon.com/dp/B017EX6FTA?tag=analogrevivalist-20), you should re-verify your VTF. The added weight can slightly compress the suspension of some turntables, affecting the geometry. For more on managing external factors that affect your sound, read about [Turntable Isolation And Vibration Control On A Budget](/2026/05/06/2026-05-06-turntable-isolation-and-vibration-control-on-a-budget/).
 
 | Component | Adjustment Tool | Desired Outcome |
 | :--- | :--- | :--- |
@@ -86,8 +86,8 @@ Setting up and calibrating a turntable from scratch is a meticulous process that
 Bookmark this guide so you have a reference the next time you swap a cartridge or move your setup.
 
 ### Related reading
-- [Turntable Isolation And Vibration Control On A Budget](/2026-05-06-2026-05-06-turntable-isolation-and-vibration-control-on-a-budget)
-- [Understanding Phono Stage Gain And Loading Settings](/2026-05-08-2026-05-08-understanding-phono-stage-gain-and-loading-settings)
+- [Turntable Isolation And Vibration Control On A Budget](/2026/05/06/2026-05-06-turntable-isolation-and-vibration-control-on-a-budget/)
+- [Understanding Phono Stage Gain And Loading Settings](/2026/05/08/2026-05-08-understanding-phono-stage-gain-and-loading-settings/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
