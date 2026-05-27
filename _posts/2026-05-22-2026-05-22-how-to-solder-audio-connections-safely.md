@@ -86,8 +86,8 @@ Mastering the art of soldering is the most effective way to preserve and improve
 Bookmark this guide for your next restoration project and share your progress in the comments below.
 
 ### Related reading
-- [Understanding Phono Stage Gain And Loading Settings](/2026-05-08-2026-05-08-understanding-phono-stage-gain-and-loading-settings)
-- [Vintage Japanese Receivers Sansui Pioneer And Marantz Compar](/2026-05-01-2026-05-01-vintage-japanese-receivers-sansui-pioneer-and-marantz-compar)
+- [Understanding Phono Stage Gain And Loading Settings](/2026/05/08/2026-05-08-understanding-phono-stage-gain-and-loading-settings/)
+- [Vintage Japanese Receivers Sansui Pioneer And Marantz Compar](/2026/05/01/2026-05-01-vintage-japanese-receivers-sansui-pioneer-and-marantz-compar/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
