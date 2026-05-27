@@ -31,7 +31,7 @@ For the majority of collectors, a manual bath system represents the most logical
 
 If you are managing a growing collection, you'll need the [Spin-Clean Record Washer Kit](https://www.amazon.com/dp/B002UKSZUU?tag=analogrevivalist-20). This unit has become the industry standard for manual cleaning because it is incredibly effective at removing the "gunk" found on thrift store finds. The secret lies in the concentrated fluid, which acts as a flocculant, causing dirt to sink to the bottom of the basin rather than staying in suspension where it could be redeposited on the record. For those with more than a few hundred discs, you should pick up a [Spin-Clean Vinyl Record Washer Deluxe Kit](https://www.amazon.com/dp/B0045ZEU52?tag=analogrevivalist-20), which includes extra brushes and a larger supply of drying cloths and fluid.
 
-The tradeoff with manual bath systems is the drying process. Unlike vacuum machines, manual systems require you to air-dry or hand-dry the discs using lint-free cloths. This adds time to the process and introduces a small risk of re-contamination if your drying area is not dust-free. However, the sheer scrubbing power of the Spin-Clean brushes is hard to beat at this price point. It can handle records with heavy tobacco smoke residue or years of attic dust that would clog the expensive filters of an ultrasonic machine. For anyone building a [budget hifi system entirely from used gear](/2026-05-04-2026-05-04-how-to-build-a-budget-hifi-system-entirely-from-used-gear), this type of cleaner is the first tool you should buy.
+The tradeoff with manual bath systems is the drying process. Unlike vacuum machines, manual systems require you to air-dry or hand-dry the discs using lint-free cloths. This adds time to the process and introduces a small risk of re-contamination if your drying area is not dust-free. However, the sheer scrubbing power of the Spin-Clean brushes is hard to beat at this price point. It can handle records with heavy tobacco smoke residue or years of attic dust that would clog the expensive filters of an ultrasonic machine. For anyone building a [budget hifi system entirely from used gear](/2026/05/04/2026-05-04-how-to-build-a-budget-hifi-system-entirely-from-used-gear/), this type of cleaner is the first tool you should buy.
 
 ## Vacuum vs. Ultrasonic: The Best Record Cleaning Machines for High-End Restorations
 
@@ -52,7 +52,7 @@ To achieve professional results, you must follow a disciplined process. Haphazar
 5.  **Vacuum or Manual Drying:** If using a vacuum machine, engage the motor and allow two full rotations. If drying manually, use a fresh microfiber cloth and wipe in a circular motion following the grooves. Do not use a scrubbing motion across the grooves.
 6.  **Final Inspection and Re-Sleeving:** Hold the record under a bright LED light to check for remaining spots. Once dry, immediately place the record in a new, anti-static inner sleeve. Putting a clean record back into a dirty original paper sleeve defeats the entire purpose of the cleaning.
 
-This process ensures that you are not just moving dirt around, but actually removing it from the environment. Proper cleaning is just as important as [turntable isolation and vibration control](/2026-05-06-2026-05-06-turntable-isolation-and-vibration-control-on-a-budget) when it comes to the final sound quality of your system.
+This process ensures that you are not just moving dirt around, but actually removing it from the environment. Proper cleaning is just as important as [turntable isolation and vibration control](/2026/05/06/2026-05-06-turntable-isolation-and-vibration-control-on-a-budget/) when it comes to the final sound quality of your system.
 
 ## Common Mistakes to Avoid When Cleaning Vintage Vinyl
 
@@ -97,7 +97,7 @@ Restoring a vintage hifi system is a labor of love, but that effort is wasted if
 Bookmark this guide to reference the cleaning steps next time you bring home a crate of vintage finds.
 
 ### Related reading
-- [How To Build A Budget Hifi System Entirely From Used Gear](/2026-05-04-2026-05-04-how-to-build-a-budget-hifi-system-entirely-from-used-gear)
-- [Turntable Isolation And Vibration Control On A Budget](/2026-05-06-2026-05-06-turntable-isolation-and-vibration-control-on-a-budget)
+- [How To Build A Budget Hifi System Entirely From Used Gear](/2026/05/04/2026-05-04-how-to-build-a-budget-hifi-system-entirely-from-used-gear/)
+- [Turntable Isolation And Vibration Control On A Budget](/2026/05/06/2026-05-06-turntable-isolation-and-vibration-control-on-a-budget/)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The Analog Revivalist team researches vintage audio restoration, drawing on service manual documentation, technician community knowledge, and comparative equipment reviews. Our guides focus on what the evidence supports - not just received wisdom.</p></div>
