@@ -28,7 +28,7 @@ Before reaching for a tool, listen. The character of the hum tells you a great d
 
 **Hiss mixed with hum** often points to a noisy phono stage, a worn or mismatched cartridge, or a preamp stage that is running at the edge of its headroom.
 
-**Intermittent or variable hum** that changes when you rotate the volume knob suggests dirty potentiometers or switch contacts. If turning the volume knob makes the hum crackle and shift, address the controls first before doing anything else. Our guide on [cleaning vintage amp controls and switches](/2026-04-08-how-to-clean-vintage-amp-controls-and-switches) covers that process in detail.
+**Intermittent or variable hum** that changes when you rotate the volume knob suggests dirty potentiometers or switch contacts. If turning the volume knob makes the hum crackle and shift, address the controls first before doing anything else. Our guide on [cleaning vintage amp controls and switches](/2026/04/08/how-to-clean-vintage-amp-controls-and-switches/) covers that process in detail.
 
 Establishing whether the hum is 60 Hz or 120 Hz is useful enough that we keep a basic digital multimeter on the bench. Touching one probe to a chassis ground and the other to the output signal path (with everything powered down correctly) can confirm AC ripple on the supply rail. But even without a meter, listening carefully to the pitch is usually enough to point you in the right direction.
 
@@ -75,7 +75,7 @@ Turntables introduce hum more often than any other source component in a vintage
 
 **Cartridge and tonearm wiring** can also introduce hum. The four small wires that connect the cartridge pins to the tonearm leads are fragile and prone to developing intermittent contact or shorts. A shorted channel or a broken shield in the tonearm wiring produces hum that may vary with tonearm position. If you suspect this, wiggle the tonearm gently with the needle lifted while listening: any change in the hum points to a wiring fault.
 
-**Phono preamp gain and loading mismatches** can cause noise that sounds like hum but is actually a combination of self-noise and signal overload. An MM cartridge connected to an MC input stage (or vice versa) will be severely mismatched in both gain and loading. Always verify that your cartridge type matches your phono stage settings. Our post on [matching impedance between amps and speakers](/2026-04-14-how-to-match-impedance-between-amps-and-speakers) covers impedance principles that apply to phono loading as well.
+**Phono preamp gain and loading mismatches** can cause noise that sounds like hum but is actually a combination of self-noise and signal overload. An MM cartridge connected to an MC input stage (or vice versa) will be severely mismatched in both gain and loading. Always verify that your cartridge type matches your phono stage settings. Our post on [matching impedance between amps and speakers](/2026/04/14/how-to-match-impedance-between-amps-and-speakers/) covers impedance principles that apply to phono loading as well.
 
 **Motor interference** is another turntable-specific issue. Some turntables, particularly belt-drive units with the motor positioned close to the tonearm, can induce hum through proximity. Confirm by lifting the needle and touching it to the record without playing: motor hum present without signal confirms motor interference. Repositioning the motor or using a thicker platter mat can reduce this.
 
@@ -152,9 +152,9 @@ Movement-sensitive hum almost always indicates a fault in the tonearm wiring: on
 
 ## Related Reading
 
-For more on the controls and switches that can introduce noise and crackle: [How to Clean Vintage Amp Controls and Switches](/2026-04-08-how-to-clean-vintage-amp-controls-and-switches)
+For more on the controls and switches that can introduce noise and crackle: [How to Clean Vintage Amp Controls and Switches](/2026/04/08/how-to-clean-vintage-amp-controls-and-switches/)
 
-For an understanding of how impedance relationships between components affect signal quality and noise: [How to Match Impedance Between Amps and Speakers](/2026-04-14-how-to-match-impedance-between-amps-and-speakers)
+For an understanding of how impedance relationships between components affect signal quality and noise: [How to Match Impedance Between Amps and Speakers](/2026/04/14/how-to-match-impedance-between-amps-and-speakers/)
 
 For an authoritative technical treatment of ground loops and noise sources in audio systems, [Audioholics' guide to ground loops and hum](https://www.audioholics.com/audio-technologies/grounding-and-shielding) is the most thorough freely available resource on the subject.
 
