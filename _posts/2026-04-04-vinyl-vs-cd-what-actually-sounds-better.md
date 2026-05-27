@@ -28,7 +28,7 @@ On paper, the CD format wins almost every measurable comparison.
 
 **Signal-to-noise ratio:** A well-mastered CD has a theoretical SNR of approximately 96 dB. Vinyl, depending on pressing quality and cartridge, typically achieves 60-70 dB. That gap is audible. On a vinyl record, you can often hear faint surface noise or hiss between quiet passages. On a CD, the silence between tracks is genuinely silent.
 
-**Frequency response:** CDs are flat from 20 Hz to 20,000 Hz by specification. Vinyl requires the RIAA equalization curve to be applied during the cutting process and accurately reversed during playback. If your [phono preamp](/2026-03-16-phono-preamps-explained) does not apply the RIAA correction precisely, the frequency balance shifts throughout the audible range. Most quality phono stages handle this well, but it introduces a variable that CD playback simply does not have.
+**Frequency response:** CDs are flat from 20 Hz to 20,000 Hz by specification. Vinyl requires the RIAA equalization curve to be applied during the cutting process and accurately reversed during playback. If your [phono preamp](/2026/03/16/phono-preamps-explained/) does not apply the RIAA correction precisely, the frequency balance shifts throughout the audible range. Most quality phono stages handle this well, but it introduces a variable that CD playback simply does not have.
 
 **Channel separation:** CD channel separation is effectively perfect, exceeding 90 dB. Vinyl channel separation depends on the cartridge design and cantilever geometry, typically ranging from 25 dB to 35 dB. Crosstalk between channels is measurable and occasionally audible as slightly reduced stereo imaging precision.
 
@@ -80,7 +80,7 @@ Both vinyl and CD are capable of exceptional results and capable of disappointin
 
 ### Vinyl Mistakes
 
-A worn or damaged stylus is the single biggest degradation in vinyl sound quality, and it is more common than most listeners realize. A stylus that has logged several hundred hours should be inspected and likely replaced. We have tested the same record before and after a stylus replacement on identical cartridges and the difference is not subtle. If your vinyl sounds veiled, distorted in the inner grooves, or lacking in high-frequency detail, the stylus is the first thing to check. See our guide on [replacing a turntable stylus](/2026-04-02-how-to-replace-a-turntable-stylus) if you suspect yours is overdue.
+A worn or damaged stylus is the single biggest degradation in vinyl sound quality, and it is more common than most listeners realize. A stylus that has logged several hundred hours should be inspected and likely replaced. We have tested the same record before and after a stylus replacement on identical cartridges and the difference is not subtle. If your vinyl sounds veiled, distorted in the inner grooves, or lacking in high-frequency detail, the stylus is the first thing to check. See our guide on [replacing a turntable stylus](/2026/04/02/how-to-replace-a-turntable-stylus/) if you suspect yours is overdue.
 
 Improperly set tracking force causes both audible distortion and accelerated record wear. Tracking too light is not safer than tracking at the specified force. An undertorqued stylus will mistrack and skip on dynamic peaks, gouging the groove walls far more aggressively than the correct force would. Every cartridge has a specified tracking force range and the right force is somewhere within it, measured with a proper scale rather than guessed.
 
@@ -130,7 +130,7 @@ Getting the most from vinyl requires a quality phono stage that applies accurate
 
 The vinyl vs. CD debate is ultimately less about format and more about the full chain from recording to ear. A well-mastered album on a properly maintained vinyl setup, through a quality phono stage and amplifier, can be a remarkable listening experience. So can a great recording through a resolving digital system with a good DAC. The format matters less than how carefully the rest of the chain is assembled.
 
-Bookmark this guide and read our [phono preamps explained](/2026-03-16-phono-preamps-explained) guide next to understand how your phono stage shapes everything you hear from your records.
+Bookmark this guide and read our [phono preamps explained](/2026/03/16/phono-preamps-explained/) guide next to understand how your phono stage shapes everything you hear from your records.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
