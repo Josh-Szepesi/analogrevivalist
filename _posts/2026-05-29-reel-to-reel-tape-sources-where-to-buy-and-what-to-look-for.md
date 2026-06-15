@@ -4,7 +4,9 @@ title: "Reel-to-reel tape sources: where to buy and what to look for"
 description: "Discover the best reel-to-reel tape sources for your vintage HiFi setup. Learn to identify high-quality new and used tapes while avoiding sticky shed syndrome."
 date: 2026-05-29
 image: /assets/images/2026-05-29-reel-to-reel-tape-sources-where-to-buy-and-what-to-look-for-hero.jpg
---- [Audio Engineering Society](https://www.aes.org/).
+---
+
+[Audio Engineering Society](https://www.aes.org/).
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 

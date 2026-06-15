@@ -4,7 +4,9 @@ title: "Tube vs. solid state: which vintage amp type is right for you?"
 description: "Decide between tube vs. solid state vintage amplifiers with this technical guide on harmonic distortion, impedance matching, and maintenance requirements."
 date: 2026-06-01
 image: /assets/images/2026-06-01-tube-vs-solid-state-which-vintage-amp-type-is-right-for-you-hero.jpg
---- [Audio Engineering Society](https://www.aes.org/).
+---
+
+[Audio Engineering Society](https://www.aes.org/).
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
