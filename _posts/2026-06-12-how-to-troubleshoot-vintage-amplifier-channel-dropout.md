@@ -136,7 +136,7 @@ Channel dropout in a vintage amplifier is frustrating, but it's almost always fi
 
 ### Related Reading
 
-For more on keeping your vintage amplifier in top condition, read our guide on [how to clean vintage amp controls and switches](/2026-04-08-how-to-clean-vintage-amp-controls-and-switches/) or explore the comprehensive process of [how to recap a vintage amplifier or receiver](/2026-04-20-how-to-recap-a-vintage-amplifier-or-receiver/).
+For more on keeping your vintage amplifier in top condition, read our guide on [how to clean vintage amp controls and switches](/2026/04/08/how-to-clean-vintage-amp-controls-and-switches/) or explore the comprehensive process of [how to recap a vintage amplifier or receiver](/2026/04/20/how-to-recap-a-vintage-amplifier-or-receiver/).
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>

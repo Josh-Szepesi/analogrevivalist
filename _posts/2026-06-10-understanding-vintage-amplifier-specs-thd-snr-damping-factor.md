@@ -118,7 +118,7 @@ Bookmark this guide or share it with a friend evaluating their first vintage amp
 
 ### Related Reading
 
-Interested in learning more about vintage amplifiers? Read our comprehensive [Vintage Integrated Amplifier Buying Guide](/2026-03-24-vintage-integrated-amplifier-buying-guide/) for practical advice on selecting your first quality amplifier, or dive deeper into maintenance with our [How to Match Impedance Between Amps and Speakers](/2026-04-14-how-to-match-impedance-between-amps-and-speakers/) guide.
+Interested in learning more about vintage amplifiers? Read our comprehensive [Vintage Integrated Amplifier Buying Guide](/2026/03/24/vintage-integrated-amplifier-buying-guide/) for practical advice on selecting your first quality amplifier, or dive deeper into maintenance with our [How to Match Impedance Between Amps and Speakers](/2026/04/14/how-to-match-impedance-between-amps-and-speakers/) guide.
 
 ### External Resources
 

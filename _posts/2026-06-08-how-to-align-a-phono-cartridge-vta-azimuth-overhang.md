@@ -132,7 +132,7 @@ Bookmark this guide and revisit it every time you install a new cartridge.
 
 ## Related Reading
 
-Explore our guides to other essential turntable setup skills: [How to Set Up and Calibrate a Turntable from Scratch](/2026-05-18-how-to-set-up-and-calibrate-a-turntable-from-scratch/) covers the complete setup process, while [How to Replace a Turntable Stylus](/2026-04-02-how-to-replace-a-turntable-stylus/) walks you through the removal and installation process for when you need to swap cartridges or replace a worn stylus.
+Explore our guides to other essential turntable setup skills: [How to Set Up and Calibrate a Turntable from Scratch](/2026/05/18/2026-05-18-how-to-set-up-and-calibrate-a-turntable-from-scratch/) covers the complete setup process, while [How to Replace a Turntable Stylus](/2026/04/02/how-to-replace-a-turntable-stylus/) walks you through the removal and installation process for when you need to swap cartridges or replace a worn stylus.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
