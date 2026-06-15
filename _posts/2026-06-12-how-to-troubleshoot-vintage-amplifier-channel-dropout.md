@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Troubleshoot a Vintage Amplifier with Channel Dropout or Intermittent Audio
-description: Fix channel dropout in vintage amplifiers: diagnose dirty pots, failing capacitors, and cold solder joints on classic Marantz, Pioneer, and Sansui gear.
+title: "How to Troubleshoot a Vintage Amplifier with Channel Dropout or Intermittent Audio"
+description: "Fix channel dropout in vintage amplifiers: diagnose dirty pots, failing capacitors, and cold solder joints on classic Marantz, Pioneer, and Sansui gear."
 date: 2026-06-12
 image: /assets/images/2026-06-12-how-to-troubleshoot-vintage-amplifier-channel-dropout.jpg
 ---

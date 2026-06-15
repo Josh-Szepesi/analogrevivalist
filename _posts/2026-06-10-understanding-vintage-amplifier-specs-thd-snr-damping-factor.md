@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Understanding Vintage Amplifier Specs: THD, SNR, Damping Factor, and Frequency Response
-description: Learn what THD, SNR, damping factor, and frequency response actually mean for vintage amplifiers - and how to use specs to compare gear.    
+title: "Understanding Vintage Amplifier Specs: THD, SNR, Damping Factor, and Frequency Response"
+description: "Learn what THD, SNR, damping factor, and frequency response actually mean for vintage amplifiers - and how to use specs to compare gear."
 date: 2026-06-10
 image: /assets/images/2026-06-10-understanding-vintage-amplifier-specs-thd-snr-damping-factor.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Align a Phono Cartridge: VTA, Azimuth, and Overhang Explained
-description: Master phono cartridge alignment with this guide to VTA, azimuth, and overhang. Improve vinyl sound quality with precision setup techniques.
+title: "How to Align a Phono Cartridge: VTA, Azimuth, and Overhang Explained"
+description: "Master phono cartridge alignment with this guide to VTA, azimuth, and overhang. Improve vinyl sound quality with precision setup techniques."
 date: 2026-06-08
 image: /assets/images/2026-06-08-how-to-align-a-phono-cartridge-vta-azimuth-overhang-hero.jpg
 ---
