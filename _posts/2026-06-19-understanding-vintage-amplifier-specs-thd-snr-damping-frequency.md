@@ -14,7 +14,7 @@ Vintage amplifier specifications read like hieroglyphics to most people. THD, SN
 This guide decodes the specs that matter and explains what they tell you about an amplifier's performance. You'll learn which numbers predict lifespan, which predict sound character, and which you can safely ignore.
 
 ![Vintage amplifier measurement and testing setup](/assets/images/2026-06-19-understanding-vintage-amplifier-specs-thd-snr-damping-frequency-hero.jpg)
-<p class="image-credit">Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=artlines_blog&utm_medium=referral">CHUTTERSNAP</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
+<p class="image-credit">Photo by <a href="https://unsplash.com/@jakubzerdzicki?utm_source=analogrevivalist&utm_medium=referral">Jakub Żerdzicki</a> on <a href="https://unsplash.com/?utm_source=analogrevivalist&utm_medium=referral">Unsplash</a></p>
 
 ## THD: what distortion really means
 
