@@ -3,13 +3,13 @@ layout: post
 title: Best Vintage HiFi Bookshelf Speakers Under $300 on the Used Market
 description: Complete guide to evaluating used vintage bookshelf speakers under $300. Learn which brands hold up, what specs matter, common failures, and restoration costs.
 date: 2026-06-29
-image: /analogrevivalist/assets/images/2026-06-29-best-vintage-hifi-bookshelf-speakers-under-300-used-market-hero.jpg
+image: /analogrevivalist/assets/images/2026-06-29-best-vintage-hifi-bookshelf-speakers-under-300-used-market-hero-20260724.jpg
 ---
 
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
-![black and brown bookshelf speaker on black surface](/analogrevivalist/assets/images/2026-06-29-best-vintage-hifi-bookshelf-speakers-under-300-used-market-hero.jpg)
+![black and brown bookshelf speaker on black surface](/analogrevivalist/assets/images/2026-06-29-best-vintage-hifi-bookshelf-speakers-under-300-used-market-hero-20260724.jpg)
 *Photo by [Josh Sorenson](https://unsplash.com/@joshsorenson?utm_source=artlines_blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral)*
 
 The used speaker market is the single best value proposition in vintage HiFi, and the most unforgiving to the uninformed buyer. A pair of Acoustic Research AR-4x bookshelves from the early 1970s - designed around the [acoustic-suspension loading principle](https://en.wikipedia.org/wiki/Acoustic_suspension) that AR essentially introduced to consumer audio - routinely lists for $80 to $150 on eBay and Facebook Marketplace when the right seller hasn't found the right buyer yet. That price-to-performance gap is real, not nostalgia-driven: the acoustic engineering in a good AR, Advent, or JBL from this era still competes credibly against modern designs at two or three times the used price. The difference is that you have to earn the deal by knowing what you're looking at.
