@@ -22,7 +22,7 @@ The dominant technology at the entry level is moving magnet, abbreviated MM. In 
 
 The sweet spot for entry-level MM cartridges sits between $60 and $160. Below that floor, compromises in stylus profile and generator quality become audible. Above that ceiling, you are paying for refinements that require a better tonearm and turntable to actually realize. We have tested the AT-VM95E at $69, the Ortofon 2M Red at $99, and the AT-VM95ML at $149 across three different turntables over several months. The differences are real and repeatable, but all three outperform what most turntables ship with as stock equipment by a meaningful margin.
 
-For a deeper look at the MM vs. MC question and when it makes sense to move up, read our guide on [MM vs. MC cartridges: which is right for your setup](/mm-vs-mc-cartridges/).
+For a deeper look at the MM vs. MC question and when it makes sense to move up, read our guide on [MM vs. MC cartridges: which is right for your setup](/2026/03/11/mm-vs-mc-cartridges/).
 
 ## The Best Entry-Level Turntable Cartridges We Recommend
 
@@ -97,7 +97,7 @@ Cartridge installation is not difficult, but it requires patience. Rushing the a
 
 **Step 5: Set anti-skate.** Set anti-skate equal to the tracking force as a starting point. Fine-tune by listening for channel imbalance on a blank groove near the end of a record.
 
-For a detailed step-by-step on stylus and cartridge replacement with photos, see our guide on [how to replace a turntable stylus](/how-to-replace-a-turntable-stylus/).
+For a detailed step-by-step on stylus and cartridge replacement with photos, see our guide on [how to replace a turntable stylus](/2026/04/02/how-to-replace-a-turntable-stylus/).
 
 ## Common Mistakes When Upgrading Your Turntable Cartridge
 

@@ -176,5 +176,5 @@ Read the specs with a critical eye: they're a tool, not gospel. A well-engineere
 **Subscribe for more:** Spec decoding guides and equipment reviews appear every Monday, Wednesday, and Friday.
 
 **Related reading:**
-- [Vintage integrated amplifier buying guide](/2026-03-24-vintage-integrated-amplifier-buying-guide)
-- [Vintage receiver guide: what to look for on the used market](/2026-03-30-vintage-receiver-guide-used-market)
+- [Vintage integrated amplifier buying guide](/2026/03/24/vintage-integrated-amplifier-buying-guide/)
+- [Vintage receiver guide: what to look for on the used market](/2026/03/30/vintage-receiver-guide-used-market/)

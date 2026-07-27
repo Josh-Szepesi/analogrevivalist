@@ -42,7 +42,7 @@ A basic digital hygrometer placed near your storage area lets you monitor condit
 
 Storing a dirty record seals contamination in with the disc. Dust and debris sitting in the grooves can cause the inner sleeve to bond slightly to the playing surface over time, and dried-on residue becomes harder to remove. Before any record goes into long-term storage, give it at least a dry brush cleaning to remove loose debris.
 
-If the record has visible grime or has not been cleaned in some time, a full wet clean is worth doing before it goes away. Our guide on [how to clean vinyl records properly](https://analogrevivalist.com/2026/03/11/how-to-clean-vinyl-records) covers methods and tools across every budget, from a simple carbon fiber brush to a dedicated record cleaning machine.
+If the record has visible grime or has not been cleaned in some time, a full wet clean is worth doing before it goes away. Our guide on [how to clean vinyl records properly](https://analogrevivalist.com/2026/03/11/how-to-clean-vinyl-records/) covers methods and tools across every budget, from a simple carbon fiber brush to a dedicated record cleaning machine.
 
 ## Replace Paper Inner Sleeves and Add Outer Sleeves
 
@@ -72,7 +72,7 @@ These are the products we reach for when maintaining a collection. No affiliate 
 
 ---
 
-If you are building out your collection and want to make sure what you are bringing home is worth the storage effort, our guide on [how to buy used vinyl without getting burned](https://analogrevivalist.com/2026/03/14/how-to-buy-used-vinyl) covers grading, listening tests, and what to avoid at record fairs and shops.
+If you are building out your collection and want to make sure what you are bringing home is worth the storage effort, our guide on [how to buy used vinyl without getting burned](https://analogrevivalist.com/2026/03/14/how-to-buy-used-vinyl/) covers grading, listening tests, and what to avoid at record fairs and shops.
 
 Bookmark this guide and come back to it when you next reorganize your storage setup - getting the basics right now will save you from dealing with warped and damaged records later.
 

@@ -153,8 +153,8 @@ A: Audio interface preamps (microphone preamplifiers) are designed for microphon
 
 ## Related Reading
 
-- [Phono Preamps Explained](/phono-preamps-explained)
-- [How to Diagnose Hum in a Vintage HiFi System](/how-to-diagnose-hum-vintage-hifi-system)
+- [Phono Preamps Explained](/2026/03/16/phono-preamps-explained/)
+- [How to Diagnose Hum in a Vintage HiFi System](/2026/04/16/how-to-diagnose-hum-vintage-hifi-system/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>

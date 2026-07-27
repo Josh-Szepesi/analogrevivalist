@@ -82,11 +82,11 @@ Once you have brought a unit home, there are a few steps worth taking before you
 
 **Check the speaker binding posts.** Loose or oxidized binding posts cause intermittent connections. Retighten them and clean with a contact cleaner if needed.
 
-**Confirm the phono input impedance.** Most vintage solid-state integrated amplifiers have a fixed 47k ohm phono input designed for moving-magnet cartridges. If you are using a moving-coil cartridge, you will need an external step-up transformer or a phono stage with adjustable loading. See our [guide to phono preamps](/phono-preamps-explained) for more on matching gain and impedance.
+**Confirm the phono input impedance.** Most vintage solid-state integrated amplifiers have a fixed 47k ohm phono input designed for moving-magnet cartridges. If you are using a moving-coil cartridge, you will need an external step-up transformer or a phono stage with adjustable loading. See our [guide to phono preamps](/2026/03/16/phono-preamps-explained/) for more on matching gain and impedance.
 
 **Connect speakers with good cable.** Speaker cable quality matters less than internet forums suggest, but connection quality matters a great deal. Use proper banana plugs or spade connectors and make sure there are no stray wire strands that could cause a short.
 
-For a step-by-step walkthrough of the full setup process, including how to connect sources and set gain levels, see our [guide to setting up a vintage receiver](/setting-up-vintage-receiver) - most of those steps apply directly to integrated amplifiers as well.
+For a step-by-step walkthrough of the full setup process, including how to connect sources and set gain levels, see our [guide to setting up a vintage receiver](/2026/03/11/setting-up-vintage-receiver/) - most of those steps apply directly to integrated amplifiers as well.
 
 If you want to cross-reference a unit's original specifications, the [Hifi Engine database](https://www.hifiengine.com/library/amplifiers.shtml) is the most comprehensive free resource for vintage amplifier manuals, service diagrams, and original spec sheets.
 
@@ -114,7 +114,7 @@ The search is part of the hobby. Take your time, do the listening test, and do n
 
 ---
 
-Bookmark this guide and check out our [phono preamps explained](/phono-preamps-explained) article next - choosing the right phono stage is the most underrated upgrade in a vintage system.
+Bookmark this guide and check out our [phono preamps explained](/2026/03/16/phono-preamps-explained/) article next - choosing the right phono stage is the most underrated upgrade in a vintage system.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>

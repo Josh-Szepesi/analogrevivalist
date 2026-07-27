@@ -7,3 +7,8 @@ permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Jekyll normally excludes underscore-prefixed files. Cloudflare needs this
+# file in the built asset directory for legacy and consolidation redirects.
+include:
+  - _redirects

@@ -27,7 +27,7 @@ Check the inner groove area - the last inch or two of playing surface near the l
 
 In our experience digging through bins at both thrift stores and dedicated record shops, the single most useful filter is sleeve condition versus record condition. A record in a beat-up sleeve is often unplayed. A record in a pristine sleeve is sometimes a result of someone rehousing a worn copy to sell it faster.
 
-For a deeper look at grading standards before you go shopping, our guide to [how to buy used vinyl](/how-to-buy-used-vinyl) covers the full VG, VG+, NM system in detail.
+For a deeper look at grading standards before you go shopping, our guide to [how to buy used vinyl](/2026/03/14/how-to-buy-used-vinyl/) covers the full VG, VG+, NM system in detail.
 
 ## Seven Used Bin Records That Actually Sound Great
 
@@ -83,7 +83,7 @@ Every used record should be cleaned before its first play. Pressing compound, fi
 
 A [Boundless Audio Vinyl Record Cleaning Brush](https://www.amazon.com/dp/B07DJFZMLG?tag=analogrevivalist-20) handles most dry cleaning needs before and after each play. For records pulled from used bins - which may have sat in cardboard sleeves for decades - a wet clean with a [Big Fudge 4-in-1 Vinyl Record Cleaning Kit](https://www.amazon.com/dp/B07DVSTBXM?tag=analogrevivalist-20) removes embedded contamination that a dry brush cannot reach. After cleaning, replace the original paper inner sleeve with a fresh [Mobile Fidelity LP Inner Sleeve](https://www.amazon.com/dp/B07Q1J1ZXL?tag=analogrevivalist-20) - the paper and cardboard sleeves used in original pressings shed particles that recontaminate the groove over time.
 
-For a complete walkthrough of wet and dry cleaning methods, see our guide on [how to clean vinyl records](/how-to-clean-vinyl-records).
+For a complete walkthrough of wet and dry cleaning methods, see our guide on [how to clean vinyl records](/2026/03/11/how-to-clean-vinyl-records/).
 
 ## Pressing Quality Matters More Than Title
 
@@ -103,7 +103,7 @@ You do not need to become an expert in matrix codes to dig productively. Start b
 
 ---
 
-Bookmark this guide and check out our [how to buy used vinyl](/how-to-buy-used-vinyl) breakdown next - it covers the grading system, what to negotiate on price, and how to spot re-housed copies.
+Bookmark this guide and check out our [how to buy used vinyl](/2026/03/14/how-to-buy-used-vinyl/) breakdown next - it covers the grading system, what to negotiate on price, and how to spot re-housed copies.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>

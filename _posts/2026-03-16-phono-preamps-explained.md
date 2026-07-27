@@ -66,7 +66,7 @@ Above $200, you are looking at audiophile territory and diminishing returns unle
 
 ## Using a Phono Preamp With a Vintage Receiver
 
-If you are [setting up a vintage receiver](https://analogrevivalist.com/2026/03/11/setting-up-vintage-receiver) and using a modern turntable, pay attention to whether you are connecting to the PHONO input or a LINE input. Connecting an already-processed line-level signal to a PHONO input means the signal gets RIAA equalization applied twice - the result sounds bass-heavy and muddy. It is a common mistake.
+If you are [setting up a vintage receiver](https://analogrevivalist.com/2026/03/11/setting-up-vintage-receiver/) and using a modern turntable, pay attention to whether you are connecting to the PHONO input or a LINE input. Connecting an already-processed line-level signal to a PHONO input means the signal gets RIAA equalization applied twice - the result sounds bass-heavy and muddy. It is a common mistake.
 
 Conversely, connecting a raw cartridge output to a LINE input skips equalization entirely - the result sounds thin and quiet. When in doubt, set your turntable to raw PHONO output and use the receiver's PHONO input if it has one.
 
@@ -95,7 +95,7 @@ As long as the preamp supports your cartridge type (MM or MC), yes. The connecti
 ## Related Reading
 
 - [MM vs MC Cartridges: What is the Difference?](https://analogrevivalist.com/2026/03/11/mm-vs-mc-cartridges)
-- [Setting Up a Vintage Receiver for Modern Use](https://analogrevivalist.com/2026/03/11/setting-up-vintage-receiver)
+- [Setting Up a Vintage Receiver for Modern Use](https://analogrevivalist.com/2026/03/11/setting-up-vintage-receiver/)
 
 If you are new to vinyl and still choosing your first setup, the [Beginner's Guide to Vintage HiFi](https://analogrevivalist.com/2026/03/11/beginners-guide-to-vintage-hifi) covers how all the components fit together, including where the phono stage sits in the signal chain.
 

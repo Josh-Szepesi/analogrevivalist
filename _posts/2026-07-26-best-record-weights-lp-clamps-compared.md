@@ -158,7 +158,7 @@ If this guide helps you understand your turntable better, bookmark it for future
 
 ### Related Reading
 
-- [How to Align a Phono Cartridge: VTA, Azimuth, and Overhang Explained](/2026/06/17/how-to-align-a-phono-cartridge-vta-azimuth-overhang.html)
+- [How to Align a Phono Cartridge: VTA, Azimuth, and Overhang Explained](/2026/06/08/how-to-align-a-phono-cartridge-vta-azimuth-overhang/)
 - [Best Entry-Level Phono Preamps Compared: What to Buy First](/2026/06/11/best-entry-level-phono-preamps-compared-what-to-buy-first.html)
 
 <div class="author-bio">
