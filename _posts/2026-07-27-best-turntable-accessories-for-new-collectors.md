@@ -172,5 +172,5 @@ Start with what you have. Use the tools in this guide to maximize your current t
 **Keep learning:** Subscribe to the blog for weekly guides on vinyl playback and vintage audio restoration. New posts every Monday, Wednesday, and Friday.
 
 **Related reading:**
-- [How to replace a turntable stylus](/2026-04-02-how-to-replace-a-turntable-stylus)
-- [Setting tracking force and anti-skate: the practical guide](/2026-04-08-how-to-clean-vintage-amp-controls-and-switches)
+- [How to replace a turntable stylus](/2026/04/02/how-to-replace-a-turntable-stylus)
+- [Setting tracking force and anti-skate: the practical guide](/2026/03/11/setting-tracking-force-anti-skate)
