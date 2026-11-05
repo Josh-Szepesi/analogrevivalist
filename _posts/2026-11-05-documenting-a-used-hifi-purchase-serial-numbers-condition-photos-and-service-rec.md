@@ -36,7 +36,7 @@ With a clean model number, search the maker's public support pages. Some brands,
 
 ### Privacy when you share label photos
 
-Label photos are low risk on their own, but the files around them are not. Phone pictures often carry location metadata, and backgrounds can reveal a seller's address, a shipping label, a license plate, or mail on a table. The FTC's [advice on protecting personal information](https://consumer.ftc.gov/identity-theft-and-online-security) is a sound baseline. Keep originals in a private archive, crop to the label before sharing, and remove location data from copies you send out. Never photograph a seller's ID or home number, and ask before photographing anyone's property.
+Label photos are low risk on their own, but the files around them are not. Phone pictures often carry location metadata, and backgrounds can reveal a seller's address, a shipping label, a license plate, or mail on a table. Include a privacy check when preparing photographs for sharing. Keep originals in a private archive, crop to the label before sharing, and remove location data from copies you send out. Never photograph a seller's ID or home number, and ask before photographing anyone's property.
 
 ## Condition Photos for Documenting a Used HiFi Purchase
 
